@@ -1,15 +1,11 @@
 <?php namespace App\Http\Controllers;
 
+use App\Models\League;
+
 class LolEsportsController extends Controller {
 
     public function getLeagues(){
-
-        $data = $this->_reqEsports('league', array(
-            'parameters[method]' => 'all',
-            'parameters[published]' => '1,0',
-        ));
-
-        print_r($data);
+        League::updateTableFromLolEsports();
     }
 
 }

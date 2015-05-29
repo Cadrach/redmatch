@@ -26,4 +26,14 @@ class LolEsports extends AbstractPest {
             'parameters[published]' => '1,0',
         ))->leagues;
     }
+
+    public function tournaments(){
+        return $this->get('tournament', array(
+            'published' => '1,0',
+        ));
+    }
+
+    public function tournament($id){
+        return $this->get('tournament/' . intval($id));
+    }
 } 

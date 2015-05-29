@@ -16,6 +16,13 @@ class CreateTournamentsTable extends Migration {
 		{
             $table->integer('id');
             $table->integer('league_id');
+            $table->text('name');
+            $table->integer('season');
+            $table->date('dateBegin');
+            $table->date('dateEnd');
+            $table->boolean('no_vod');
+            $table->boolean('finished');
+            $table->boolean('published');
             $table->timestamps();
 
             $table->primary('id');

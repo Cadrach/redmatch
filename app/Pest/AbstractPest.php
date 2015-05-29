@@ -17,7 +17,7 @@ abstract class AbstractPest {
         return $this->_pest;
     }
 
-    public function get($service, $params){
+    public function get($service, array $params=array()){
         return json_decode($this->_pest->get($service, $params));
     }
 } 

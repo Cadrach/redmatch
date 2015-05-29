@@ -4,6 +4,8 @@ use Illuminate\Support\ServiceProvider;
 
 class PestServiceProvider extends ServiceProvider {
 
+    protected $defer = true;
+
 	/**
 	 * Bootstrap the application services.
 	 *
@@ -21,16 +23,24 @@ class PestServiceProvider extends ServiceProvider {
 	 */
 	public function register()
 	{
+
 		//
         $this->app->singleton('Pest_LolEsports', function($app)
         {
-            return new App\Pest\LolEsports();
+            return new \App\Pest\LolEsports();
         });
 
         $this->app->singleton('Pest_Reddit', function($app)
         {
-            return new App\Pest\Reddit();
+            return new \App\Pest\Reddit();
         });
 	}
+
+    public function provides(){
+        return [
+            'Pest_LolEsports',
+            'Pest_Reddit',
+        ];
+    }
 
 }

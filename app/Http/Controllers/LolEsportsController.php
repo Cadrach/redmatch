@@ -1,9 +1,13 @@
 <?php namespace App\Http\Controllers;
 
-use App\Pest\Reddit;
+use \Illuminate\Contracts\Foundation\Application;
 use App\Models\League;
 
 class LolEsportsController extends Controller {
+
+    public function __construct(Application $app){
+        $this->app = $app;
+    }
 
     public function getLeagues(){
         League::updateTableFromLolEsports();
@@ -11,8 +15,7 @@ class LolEsportsController extends Controller {
 
 
     public function getReddit(){
-        $pest = new Reddit;
         echo '<pre>';
-        print_r($pest->search('test'));
+        print_r($this->app['Pest_Reddit']->search('test'));
     }
 }

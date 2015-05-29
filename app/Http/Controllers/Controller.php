@@ -13,4 +13,18 @@ abstract class Controller extends BaseController {
     public function dump($v){
         (new Dumper())->dump($v);
     }
+
+    /**
+     * @return \App\Pest\LolEsports
+     */
+    public function pestLolEsports(){
+        return $this->app['Pest_LolEsports'];
+    }
+
+    /**
+     * @return \App\Pest\Reddit
+     */
+    public function pestReddit(){
+        return $this->app['Pest_Reddit'];
+    }
 }

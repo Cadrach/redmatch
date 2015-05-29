@@ -5,6 +5,9 @@
  *
  * Command to run the migration
  * php artisan migrate
+ *
+ * Command to generate the seed
+ * php artisan iseed leagues,tournaments
  */
 
 use Illuminate\Database\Schema\Blueprint;

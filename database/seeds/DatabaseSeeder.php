@@ -1,5 +1,8 @@
 <?php
 
+include 'LeaguesTableSeeder.php';
+include 'TournamentsTableSeeder.php';
+
 use Illuminate\Database\Seeder;
 use Illuminate\Database\Eloquent\Model;
 
@@ -15,6 +18,8 @@ class DatabaseSeeder extends Seeder {
 		Model::unguard();
 
 		// $this->call('UserTableSeeder');
+		$this->call('LeaguesTableSeeder');
+		$this->call('TournamentsTableSeeder');
 	}
 
 }

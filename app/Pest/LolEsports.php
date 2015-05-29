@@ -36,4 +36,13 @@ class LolEsports extends AbstractPest {
     public function tournament($id){
         return $this->get('tournament/' . intval($id));
     }
+
+    public function schedule($tournamentId){
+        return $this->get('schedule', array(
+            'tournamentId' => $tournamentId,
+            'includeFinished' => true,
+            'includeFuture' => true,
+            'includeLive' => true,
+        ));
+    }
 } 

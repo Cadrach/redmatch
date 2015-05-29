@@ -6,7 +6,8 @@
 	"type": "project",
 	"require": {
 		"laravel/framework": "5.0.*",
-        "educoder/pest": "1.0.0"
+        "educoder/pest": "1.0.0",
+        "orangehill/iseed": "dev-master"
 	},
 	"require-dev": {
 		"phpunit/phpunit": "~4.0",

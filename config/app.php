@@ -146,6 +146,11 @@ return [
 		'App\Providers\RouteServiceProvider',
 		'App\Providers\PestServiceProvider',
 
+        /**
+         * Migration Seed Exporter
+         */
+        'Orangehill\Iseed\IseedServiceProvider',
+
 	],
 
 	/*

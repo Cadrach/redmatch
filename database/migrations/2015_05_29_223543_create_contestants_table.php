@@ -14,8 +14,17 @@ class CreateContestantsTable extends Migration {
 	{
 		Schema::create('contestants', function(Blueprint $table)
 		{
-			$table->increments('id');
-			$table->timestamps();
+            $table->integer('id');
+            $table->integer('league_id');
+            $table->integer('tournament_id');
+            $table->integer('team_id');
+
+            $table->timestamps();
+
+            $table->primary('id');
+            $table->index('league_id');
+            $table->index('tournament_id');
+            $table->index('team_id');
 		});
 	}
 

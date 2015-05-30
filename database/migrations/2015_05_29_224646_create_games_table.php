@@ -19,8 +19,14 @@ class CreateGamesTable extends Migration {
             $table->integer('tournament_id');
             $table->integer('match_id');
             $table->integer('team_winner_id');
+            $table->integer('team_blue_id');
+            $table->integer('team_red_id');
+            $table->dateTime('date_time');
             $table->boolean('has_vod');
             $table->boolean('no_vods');
+            $table->text('legs_url');
+            $table->string('patch');
+            $table->integer('length');
             $table->tinyInteger('order');
 
             $table->timestamps();
@@ -30,6 +36,8 @@ class CreateGamesTable extends Migration {
             $table->index('tournament_id');
             $table->index('match_id');
             $table->index('team_winner_id');
+            $table->index('team_blue_id');
+            $table->index('team_red_id');
 		});
 	}
 

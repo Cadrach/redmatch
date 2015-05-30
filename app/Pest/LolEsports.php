@@ -45,4 +45,10 @@ class LolEsports extends AbstractPest {
             'includeLive' => true,
         ));
     }
+
+    public function game($id){
+        return $this->get('game', array(
+            'gameId' => $id,
+        ));
+    }
 } 

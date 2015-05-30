@@ -32,7 +32,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:00:50',
-				'updated_at' => '2015-05-30 00:08:50',
+				'updated_at' => '2015-05-30 07:16:32',
 			),
 			1 => 
 			array (
@@ -52,7 +52,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:00:50',
-				'updated_at' => '2015-05-30 00:08:50',
+				'updated_at' => '2015-05-30 07:16:32',
 			),
 			2 => 
 			array (
@@ -72,7 +72,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:00:50',
-				'updated_at' => '2015-05-30 00:08:50',
+				'updated_at' => '2015-05-30 07:16:32',
 			),
 			3 => 
 			array (
@@ -92,7 +92,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:00:50',
-				'updated_at' => '2015-05-30 00:08:50',
+				'updated_at' => '2015-05-30 07:16:32',
 			),
 			4 => 
 			array (
@@ -112,7 +112,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:00:51',
-				'updated_at' => '2015-05-30 00:08:50',
+				'updated_at' => '2015-05-30 07:16:32',
 			),
 			5 => 
 			array (
@@ -132,7 +132,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:00:51',
-				'updated_at' => '2015-05-30 00:08:50',
+				'updated_at' => '2015-05-30 07:16:32',
 			),
 			6 => 
 			array (
@@ -152,7 +152,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:00:51',
-				'updated_at' => '2015-05-30 00:08:50',
+				'updated_at' => '2015-05-30 07:16:32',
 			),
 			7 => 
 			array (
@@ -172,7 +172,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:00:51',
-				'updated_at' => '2015-05-30 00:08:50',
+				'updated_at' => '2015-05-30 07:16:32',
 			),
 			8 => 
 			array (
@@ -192,7 +192,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:00:51',
-				'updated_at' => '2015-05-30 00:08:50',
+				'updated_at' => '2015-05-30 07:16:32',
 			),
 			9 => 
 			array (
@@ -212,7 +212,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:00:51',
-				'updated_at' => '2015-05-30 00:08:50',
+				'updated_at' => '2015-05-30 07:16:32',
 			),
 			10 => 
 			array (
@@ -232,7 +232,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:00:51',
-				'updated_at' => '2015-05-30 00:08:50',
+				'updated_at' => '2015-05-30 07:16:32',
 			),
 			11 => 
 			array (
@@ -252,7 +252,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:00:51',
-				'updated_at' => '2015-05-30 00:08:50',
+				'updated_at' => '2015-05-30 07:16:32',
 			),
 			12 => 
 			array (
@@ -272,7 +272,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:28',
-				'updated_at' => '2015-05-30 00:08:50',
+				'updated_at' => '2015-05-30 07:16:32',
 			),
 			13 => 
 			array (
@@ -292,7 +292,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:29',
-				'updated_at' => '2015-05-30 00:08:55',
+				'updated_at' => '2015-05-30 07:16:38',
 			),
 			14 => 
 			array (
@@ -312,7 +312,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:29',
-				'updated_at' => '2015-05-30 00:08:55',
+				'updated_at' => '2015-05-30 07:16:38',
 			),
 			15 => 
 			array (
@@ -332,7 +332,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:29',
-				'updated_at' => '2015-05-30 00:08:55',
+				'updated_at' => '2015-05-30 07:16:38',
 			),
 			16 => 
 			array (
@@ -352,7 +352,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:29',
-				'updated_at' => '2015-05-30 00:08:55',
+				'updated_at' => '2015-05-30 07:16:38',
 			),
 			17 => 
 			array (
@@ -372,7 +372,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:29',
-				'updated_at' => '2015-05-30 00:08:55',
+				'updated_at' => '2015-05-30 07:16:38',
 			),
 			18 => 
 			array (
@@ -392,7 +392,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:29',
-				'updated_at' => '2015-05-30 00:08:55',
+				'updated_at' => '2015-05-30 07:16:38',
 			),
 			19 => 
 			array (
@@ -412,7 +412,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:29',
-				'updated_at' => '2015-05-30 00:08:55',
+				'updated_at' => '2015-05-30 07:16:38',
 			),
 			20 => 
 			array (
@@ -432,7 +432,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:29',
-				'updated_at' => '2015-05-30 00:08:55',
+				'updated_at' => '2015-05-30 07:16:38',
 			),
 			21 => 
 			array (
@@ -452,7 +452,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:29',
-				'updated_at' => '2015-05-30 00:08:55',
+				'updated_at' => '2015-05-30 07:16:38',
 			),
 			22 => 
 			array (
@@ -472,7 +472,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:29',
-				'updated_at' => '2015-05-30 00:08:55',
+				'updated_at' => '2015-05-30 07:16:38',
 			),
 			23 => 
 			array (
@@ -492,7 +492,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:29',
-				'updated_at' => '2015-05-30 00:08:55',
+				'updated_at' => '2015-05-30 07:16:38',
 			),
 			24 => 
 			array (
@@ -512,7 +512,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:29',
-				'updated_at' => '2015-05-30 00:08:55',
+				'updated_at' => '2015-05-30 07:16:38',
 			),
 			25 => 
 			array (
@@ -532,7 +532,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:29',
-				'updated_at' => '2015-05-30 00:08:55',
+				'updated_at' => '2015-05-30 07:16:38',
 			),
 			26 => 
 			array (
@@ -552,7 +552,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:31',
-				'updated_at' => '2015-05-30 00:09:00',
+				'updated_at' => '2015-05-30 07:16:44',
 			),
 			27 => 
 			array (
@@ -572,7 +572,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:31',
-				'updated_at' => '2015-05-30 00:09:00',
+				'updated_at' => '2015-05-30 07:16:44',
 			),
 			28 => 
 			array (
@@ -592,7 +592,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:31',
-				'updated_at' => '2015-05-30 00:09:00',
+				'updated_at' => '2015-05-30 07:16:44',
 			),
 			29 => 
 			array (
@@ -612,7 +612,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:31',
-				'updated_at' => '2015-05-30 00:09:00',
+				'updated_at' => '2015-05-30 07:16:44',
 			),
 			30 => 
 			array (
@@ -632,7 +632,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:31',
-				'updated_at' => '2015-05-30 00:09:00',
+				'updated_at' => '2015-05-30 07:16:44',
 			),
 			31 => 
 			array (
@@ -652,7 +652,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:31',
-				'updated_at' => '2015-05-30 00:09:00',
+				'updated_at' => '2015-05-30 07:16:44',
 			),
 			32 => 
 			array (
@@ -672,7 +672,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:31',
-				'updated_at' => '2015-05-30 00:09:00',
+				'updated_at' => '2015-05-30 07:16:44',
 			),
 			33 => 
 			array (
@@ -692,7 +692,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:31',
-				'updated_at' => '2015-05-30 00:09:00',
+				'updated_at' => '2015-05-30 07:16:44',
 			),
 			34 => 
 			array (
@@ -712,7 +712,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:31',
-				'updated_at' => '2015-05-30 00:09:00',
+				'updated_at' => '2015-05-30 07:16:44',
 			),
 			35 => 
 			array (
@@ -732,7 +732,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:31',
-				'updated_at' => '2015-05-30 00:09:00',
+				'updated_at' => '2015-05-30 07:16:44',
 			),
 			36 => 
 			array (
@@ -752,7 +752,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:31',
-				'updated_at' => '2015-05-30 00:09:01',
+				'updated_at' => '2015-05-30 07:16:44',
 			),
 			37 => 
 			array (
@@ -772,7 +772,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:31',
-				'updated_at' => '2015-05-30 00:09:01',
+				'updated_at' => '2015-05-30 07:16:44',
 			),
 			38 => 
 			array (
@@ -792,7 +792,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:31',
-				'updated_at' => '2015-05-30 00:09:01',
+				'updated_at' => '2015-05-30 07:16:44',
 			),
 			39 => 
 			array (
@@ -812,7 +812,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:31',
-				'updated_at' => '2015-05-30 00:09:01',
+				'updated_at' => '2015-05-30 07:16:44',
 			),
 			40 => 
 			array (
@@ -832,7 +832,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:31',
-				'updated_at' => '2015-05-30 00:09:01',
+				'updated_at' => '2015-05-30 07:16:44',
 			),
 			41 => 
 			array (
@@ -852,7 +852,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:31',
-				'updated_at' => '2015-05-30 00:09:01',
+				'updated_at' => '2015-05-30 07:16:44',
 			),
 			42 => 
 			array (
@@ -872,7 +872,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:31',
-				'updated_at' => '2015-05-30 00:09:01',
+				'updated_at' => '2015-05-30 07:16:44',
 			),
 			43 => 
 			array (
@@ -892,7 +892,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:31',
-				'updated_at' => '2015-05-30 00:09:01',
+				'updated_at' => '2015-05-30 07:16:44',
 			),
 			44 => 
 			array (
@@ -912,7 +912,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:31',
-				'updated_at' => '2015-05-30 00:09:01',
+				'updated_at' => '2015-05-30 07:16:44',
 			),
 			45 => 
 			array (
@@ -932,7 +932,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:31',
-				'updated_at' => '2015-05-30 00:09:01',
+				'updated_at' => '2015-05-30 07:16:44',
 			),
 			46 => 
 			array (
@@ -952,7 +952,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:31',
-				'updated_at' => '2015-05-30 00:09:01',
+				'updated_at' => '2015-05-30 07:16:44',
 			),
 			47 => 
 			array (
@@ -972,7 +972,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:31',
-				'updated_at' => '2015-05-30 00:09:01',
+				'updated_at' => '2015-05-30 07:16:44',
 			),
 			48 => 
 			array (
@@ -992,7 +992,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:31',
-				'updated_at' => '2015-05-30 00:09:01',
+				'updated_at' => '2015-05-30 07:16:44',
 			),
 			49 => 
 			array (
@@ -1012,7 +1012,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:31',
-				'updated_at' => '2015-05-30 00:09:01',
+				'updated_at' => '2015-05-30 07:16:44',
 			),
 			50 => 
 			array (
@@ -1032,7 +1032,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:31',
-				'updated_at' => '2015-05-30 00:09:01',
+				'updated_at' => '2015-05-30 07:16:44',
 			),
 			51 => 
 			array (
@@ -1052,7 +1052,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:31',
-				'updated_at' => '2015-05-30 00:09:01',
+				'updated_at' => '2015-05-30 07:16:44',
 			),
 			52 => 
 			array (
@@ -1072,7 +1072,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:31',
-				'updated_at' => '2015-05-30 00:09:01',
+				'updated_at' => '2015-05-30 07:16:44',
 			),
 			53 => 
 			array (
@@ -1092,7 +1092,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:31',
-				'updated_at' => '2015-05-30 00:09:01',
+				'updated_at' => '2015-05-30 07:16:44',
 			),
 			54 => 
 			array (
@@ -1112,7 +1112,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:31',
-				'updated_at' => '2015-05-30 00:09:01',
+				'updated_at' => '2015-05-30 07:16:44',
 			),
 			55 => 
 			array (
@@ -1132,7 +1132,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:31',
-				'updated_at' => '2015-05-30 00:09:01',
+				'updated_at' => '2015-05-30 07:16:44',
 			),
 			56 => 
 			array (
@@ -1152,7 +1152,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:31',
-				'updated_at' => '2015-05-30 00:09:01',
+				'updated_at' => '2015-05-30 07:16:44',
 			),
 			57 => 
 			array (
@@ -1172,7 +1172,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:31',
-				'updated_at' => '2015-05-30 00:09:01',
+				'updated_at' => '2015-05-30 07:16:44',
 			),
 			58 => 
 			array (
@@ -1192,7 +1192,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:31',
-				'updated_at' => '2015-05-30 00:09:01',
+				'updated_at' => '2015-05-30 07:16:44',
 			),
 			59 => 
 			array (
@@ -1212,7 +1212,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:31',
-				'updated_at' => '2015-05-30 00:09:01',
+				'updated_at' => '2015-05-30 07:16:44',
 			),
 			60 => 
 			array (
@@ -1232,7 +1232,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:31',
-				'updated_at' => '2015-05-30 00:09:01',
+				'updated_at' => '2015-05-30 07:16:45',
 			),
 			61 => 
 			array (
@@ -1252,7 +1252,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:31',
-				'updated_at' => '2015-05-30 00:09:01',
+				'updated_at' => '2015-05-30 07:16:45',
 			),
 			62 => 
 			array (
@@ -1272,7 +1272,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:31',
-				'updated_at' => '2015-05-30 00:09:01',
+				'updated_at' => '2015-05-30 07:16:45',
 			),
 			63 => 
 			array (
@@ -1292,7 +1292,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:31',
-				'updated_at' => '2015-05-30 00:09:01',
+				'updated_at' => '2015-05-30 07:16:45',
 			),
 			64 => 
 			array (
@@ -1312,7 +1312,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:31',
-				'updated_at' => '2015-05-30 00:09:01',
+				'updated_at' => '2015-05-30 07:16:45',
 			),
 			65 => 
 			array (
@@ -1332,7 +1332,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:31',
-				'updated_at' => '2015-05-30 00:09:01',
+				'updated_at' => '2015-05-30 07:16:45',
 			),
 			66 => 
 			array (
@@ -1352,7 +1352,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:31',
-				'updated_at' => '2015-05-30 00:09:01',
+				'updated_at' => '2015-05-30 07:16:45',
 			),
 			67 => 
 			array (
@@ -1372,7 +1372,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:31',
-				'updated_at' => '2015-05-30 00:09:01',
+				'updated_at' => '2015-05-30 07:16:45',
 			),
 			68 => 
 			array (
@@ -1392,7 +1392,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:31',
-				'updated_at' => '2015-05-30 00:09:01',
+				'updated_at' => '2015-05-30 07:16:45',
 			),
 			69 => 
 			array (
@@ -1412,7 +1412,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:31',
-				'updated_at' => '2015-05-30 00:09:01',
+				'updated_at' => '2015-05-30 07:16:45',
 			),
 			70 => 
 			array (
@@ -1432,7 +1432,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:31',
-				'updated_at' => '2015-05-30 00:09:01',
+				'updated_at' => '2015-05-30 07:16:45',
 			),
 			71 => 
 			array (
@@ -1452,7 +1452,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:31',
-				'updated_at' => '2015-05-30 00:09:01',
+				'updated_at' => '2015-05-30 07:16:45',
 			),
 			72 => 
 			array (
@@ -1472,7 +1472,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:31',
-				'updated_at' => '2015-05-30 00:09:01',
+				'updated_at' => '2015-05-30 07:16:45',
 			),
 			73 => 
 			array (
@@ -1492,7 +1492,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:32',
-				'updated_at' => '2015-05-30 00:09:01',
+				'updated_at' => '2015-05-30 07:16:45',
 			),
 			74 => 
 			array (
@@ -1512,7 +1512,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:32',
-				'updated_at' => '2015-05-30 00:09:01',
+				'updated_at' => '2015-05-30 07:16:45',
 			),
 			75 => 
 			array (
@@ -1532,7 +1532,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:32',
-				'updated_at' => '2015-05-30 00:09:05',
+				'updated_at' => '2015-05-30 07:16:45',
 			),
 			76 => 
 			array (
@@ -1552,7 +1552,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:32',
-				'updated_at' => '2015-05-30 00:09:10',
+				'updated_at' => '2015-05-30 07:16:45',
 			),
 			77 => 
 			array (
@@ -1572,7 +1572,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:32',
-				'updated_at' => '2015-05-30 00:09:15',
+				'updated_at' => '2015-05-30 07:16:45',
 			),
 			78 => 
 			array (
@@ -1592,7 +1592,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:32',
-				'updated_at' => '2015-05-30 00:09:20',
+				'updated_at' => '2015-05-30 07:16:45',
 			),
 			79 => 
 			array (
@@ -1612,7 +1612,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:32',
-				'updated_at' => '2015-05-30 00:09:25',
+				'updated_at' => '2015-05-30 07:16:45',
 			),
 			80 => 
 			array (
@@ -1632,7 +1632,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:32',
-				'updated_at' => '2015-05-30 00:09:30',
+				'updated_at' => '2015-05-30 07:16:45',
 			),
 			81 => 
 			array (
@@ -1652,7 +1652,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:32',
-				'updated_at' => '2015-05-30 00:09:35',
+				'updated_at' => '2015-05-30 07:16:45',
 			),
 			82 => 
 			array (
@@ -1672,7 +1672,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:34',
-				'updated_at' => '2015-05-30 00:09:40',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			83 => 
 			array (
@@ -1692,7 +1692,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:34',
-				'updated_at' => '2015-05-30 00:09:45',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			84 => 
 			array (
@@ -1712,7 +1712,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:34',
-				'updated_at' => '2015-05-30 00:09:50',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			85 => 
 			array (
@@ -1732,7 +1732,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:34',
-				'updated_at' => '2015-05-30 00:09:55',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			86 => 
 			array (
@@ -1752,7 +1752,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:34',
-				'updated_at' => '2015-05-30 00:10:00',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			87 => 
 			array (
@@ -1772,7 +1772,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:34',
-				'updated_at' => '2015-05-30 00:10:05',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			88 => 
 			array (
@@ -1792,7 +1792,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:34',
-				'updated_at' => '2015-05-30 00:10:10',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			89 => 
 			array (
@@ -1812,7 +1812,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:34',
-				'updated_at' => '2015-05-30 00:10:15',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			90 => 
 			array (
@@ -1832,7 +1832,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:34',
-				'updated_at' => '2015-05-30 00:10:20',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			91 => 
 			array (
@@ -1852,7 +1852,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:34',
-				'updated_at' => '2015-05-30 00:10:25',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			92 => 
 			array (
@@ -1872,7 +1872,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:34',
-				'updated_at' => '2015-05-30 00:10:30',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			93 => 
 			array (
@@ -1892,7 +1892,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:34',
-				'updated_at' => '2015-05-30 00:10:35',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			94 => 
 			array (
@@ -1912,7 +1912,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:34',
-				'updated_at' => '2015-05-30 00:10:40',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			95 => 
 			array (
@@ -1932,7 +1932,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:34',
-				'updated_at' => '2015-05-30 00:10:45',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			96 => 
 			array (
@@ -1952,7 +1952,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:34',
-				'updated_at' => '2015-05-30 00:10:50',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			97 => 
 			array (
@@ -1972,7 +1972,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:34',
-				'updated_at' => '2015-05-30 00:10:55',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			98 => 
 			array (
@@ -1992,7 +1992,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:34',
-				'updated_at' => '2015-05-30 00:11:00',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			99 => 
 			array (
@@ -2012,7 +2012,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:34',
-				'updated_at' => '2015-05-30 00:11:05',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			100 => 
 			array (
@@ -2032,7 +2032,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:34',
-				'updated_at' => '2015-05-30 00:11:10',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			101 => 
 			array (
@@ -2052,7 +2052,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:34',
-				'updated_at' => '2015-05-30 00:11:15',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			102 => 
 			array (
@@ -2072,7 +2072,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:34',
-				'updated_at' => '2015-05-30 00:11:20',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			103 => 
 			array (
@@ -2092,7 +2092,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:34',
-				'updated_at' => '2015-05-30 00:11:25',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			104 => 
 			array (
@@ -2112,7 +2112,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:34',
-				'updated_at' => '2015-05-30 00:11:30',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			105 => 
 			array (
@@ -2132,7 +2132,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:34',
-				'updated_at' => '2015-05-30 00:11:35',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			106 => 
 			array (
@@ -2152,7 +2152,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:34',
-				'updated_at' => '2015-05-30 00:11:40',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			107 => 
 			array (
@@ -2172,7 +2172,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:34',
-				'updated_at' => '2015-05-30 00:11:45',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			108 => 
 			array (
@@ -2192,7 +2192,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:34',
-				'updated_at' => '2015-05-30 00:11:50',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			109 => 
 			array (
@@ -2212,7 +2212,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:34',
-				'updated_at' => '2015-05-30 00:11:55',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			110 => 
 			array (
@@ -2232,7 +2232,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:34',
-				'updated_at' => '2015-05-30 00:12:00',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			111 => 
 			array (
@@ -2252,7 +2252,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:34',
-				'updated_at' => '2015-05-30 00:12:06',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			112 => 
 			array (
@@ -2272,7 +2272,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:34',
-				'updated_at' => '2015-05-30 00:12:11',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			113 => 
 			array (
@@ -2292,7 +2292,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:34',
-				'updated_at' => '2015-05-30 00:12:16',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			114 => 
 			array (
@@ -2312,7 +2312,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:34',
-				'updated_at' => '2015-05-30 00:12:21',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			115 => 
 			array (
@@ -2332,7 +2332,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:34',
-				'updated_at' => '2015-05-30 00:12:26',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			116 => 
 			array (
@@ -2352,7 +2352,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:34',
-				'updated_at' => '2015-05-30 00:12:31',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			117 => 
 			array (
@@ -2372,7 +2372,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:34',
-				'updated_at' => '2015-05-30 00:12:36',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			118 => 
 			array (
@@ -2392,7 +2392,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:34',
-				'updated_at' => '2015-05-30 00:12:41',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			119 => 
 			array (
@@ -2412,7 +2412,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:34',
-				'updated_at' => '2015-05-30 00:12:46',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			120 => 
 			array (
@@ -2432,7 +2432,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:34',
-				'updated_at' => '2015-05-30 00:12:51',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			121 => 
 			array (
@@ -2452,7 +2452,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:34',
-				'updated_at' => '2015-05-30 00:12:56',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			122 => 
 			array (
@@ -2472,7 +2472,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:34',
-				'updated_at' => '2015-05-30 00:13:01',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			123 => 
 			array (
@@ -2492,7 +2492,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:34',
-				'updated_at' => '2015-05-30 00:13:06',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			124 => 
 			array (
@@ -2512,7 +2512,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:34',
-				'updated_at' => '2015-05-30 00:13:11',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			125 => 
 			array (
@@ -2532,7 +2532,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:34',
-				'updated_at' => '2015-05-30 00:13:16',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			126 => 
 			array (
@@ -2552,7 +2552,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:34',
-				'updated_at' => '2015-05-30 00:13:21',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			127 => 
 			array (
@@ -2572,7 +2572,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:34',
-				'updated_at' => '2015-05-30 00:13:26',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			128 => 
 			array (
@@ -2592,7 +2592,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:35',
-				'updated_at' => '2015-05-30 00:13:31',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			129 => 
 			array (
@@ -2612,7 +2612,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:35',
-				'updated_at' => '2015-05-30 00:13:36',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			130 => 
 			array (
@@ -2632,7 +2632,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:35',
-				'updated_at' => '2015-05-30 00:13:41',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			131 => 
 			array (
@@ -2652,7 +2652,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:35',
-				'updated_at' => '2015-05-30 00:13:46',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			132 => 
 			array (
@@ -2672,7 +2672,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:35',
-				'updated_at' => '2015-05-30 00:13:51',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			133 => 
 			array (
@@ -2692,7 +2692,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:35',
-				'updated_at' => '2015-05-30 00:13:56',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			134 => 
 			array (
@@ -2712,7 +2712,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:35',
-				'updated_at' => '2015-05-30 00:14:01',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			135 => 
 			array (
@@ -2732,7 +2732,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:35',
-				'updated_at' => '2015-05-30 00:14:06',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			136 => 
 			array (
@@ -2752,7 +2752,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:35',
-				'updated_at' => '2015-05-30 00:14:11',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			137 => 
 			array (
@@ -2772,7 +2772,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:35',
-				'updated_at' => '2015-05-30 00:14:16',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			138 => 
 			array (
@@ -2792,7 +2792,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:35',
-				'updated_at' => '2015-05-30 00:14:21',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			139 => 
 			array (
@@ -2812,7 +2812,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:35',
-				'updated_at' => '2015-05-30 00:14:26',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			140 => 
 			array (
@@ -2832,7 +2832,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:35',
-				'updated_at' => '2015-05-30 00:14:31',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			141 => 
 			array (
@@ -2852,7 +2852,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:35',
-				'updated_at' => '2015-05-30 00:14:36',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			142 => 
 			array (
@@ -2872,7 +2872,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:35',
-				'updated_at' => '2015-05-30 00:14:41',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			143 => 
 			array (
@@ -2892,7 +2892,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:35',
-				'updated_at' => '2015-05-30 00:14:46',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			144 => 
 			array (
@@ -2912,7 +2912,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:35',
-				'updated_at' => '2015-05-30 00:14:51',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			145 => 
 			array (
@@ -2932,7 +2932,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:35',
-				'updated_at' => '2015-05-30 00:14:56',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			146 => 
 			array (
@@ -2952,7 +2952,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:35',
-				'updated_at' => '2015-05-30 00:15:01',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			147 => 
 			array (
@@ -2972,7 +2972,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:35',
-				'updated_at' => '2015-05-30 00:15:06',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			148 => 
 			array (
@@ -2992,7 +2992,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:35',
-				'updated_at' => '2015-05-30 00:15:11',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			149 => 
 			array (
@@ -3012,7 +3012,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:35',
-				'updated_at' => '2015-05-30 00:15:16',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			150 => 
 			array (
@@ -3032,7 +3032,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:35',
-				'updated_at' => '2015-05-30 00:15:21',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			151 => 
 			array (
@@ -3052,7 +3052,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:35',
-				'updated_at' => '2015-05-30 00:15:26',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			152 => 
 			array (
@@ -3072,7 +3072,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:35',
-				'updated_at' => '2015-05-30 00:15:31',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			153 => 
 			array (
@@ -3092,7 +3092,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:35',
-				'updated_at' => '2015-05-30 00:15:36',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			154 => 
 			array (
@@ -3112,7 +3112,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:35',
-				'updated_at' => '2015-05-30 00:15:41',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			155 => 
 			array (
@@ -3132,7 +3132,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:35',
-				'updated_at' => '2015-05-30 00:15:46',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			156 => 
 			array (
@@ -3152,7 +3152,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:35',
-				'updated_at' => '2015-05-30 00:15:52',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			157 => 
 			array (
@@ -3172,7 +3172,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:35',
-				'updated_at' => '2015-05-30 00:15:57',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			158 => 
 			array (
@@ -3192,7 +3192,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:35',
-				'updated_at' => '2015-05-30 00:16:02',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			159 => 
 			array (
@@ -3212,7 +3212,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:35',
-				'updated_at' => '2015-05-30 00:16:07',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			160 => 
 			array (
@@ -3232,7 +3232,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:35',
-				'updated_at' => '2015-05-30 00:16:12',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			161 => 
 			array (
@@ -3252,7 +3252,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:35',
-				'updated_at' => '2015-05-30 00:16:17',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			162 => 
 			array (
@@ -3272,7 +3272,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:35',
-				'updated_at' => '2015-05-30 00:16:22',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			163 => 
 			array (
@@ -3292,7 +3292,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:35',
-				'updated_at' => '2015-05-30 00:16:27',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			164 => 
 			array (
@@ -3312,7 +3312,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:35',
-				'updated_at' => '2015-05-30 00:16:32',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			165 => 
 			array (
@@ -3332,7 +3332,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:35',
-				'updated_at' => '2015-05-30 00:16:37',
+				'updated_at' => '2015-05-30 07:16:51',
 			),
 			166 => 
 			array (
@@ -3352,7 +3352,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:35',
-				'updated_at' => '2015-05-30 00:16:43',
+				'updated_at' => '2015-05-30 07:16:58',
 			),
 			167 => 
 			array (
@@ -3372,7 +3372,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:35',
-				'updated_at' => '2015-05-30 00:16:48',
+				'updated_at' => '2015-05-30 07:16:58',
 			),
 			168 => 
 			array (
@@ -3392,7 +3392,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:35',
-				'updated_at' => '2015-05-30 00:16:53',
+				'updated_at' => '2015-05-30 07:16:58',
 			),
 			169 => 
 			array (
@@ -3412,7 +3412,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:35',
-				'updated_at' => '2015-05-30 00:16:58',
+				'updated_at' => '2015-05-30 07:16:58',
 			),
 			170 => 
 			array (
@@ -3432,7 +3432,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:35',
-				'updated_at' => '2015-05-30 00:17:03',
+				'updated_at' => '2015-05-30 07:16:58',
 			),
 			171 => 
 			array (
@@ -3452,7 +3452,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:35',
-				'updated_at' => '2015-05-30 00:17:08',
+				'updated_at' => '2015-05-30 07:16:58',
 			),
 			172 => 
 			array (
@@ -3472,7 +3472,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:35',
-				'updated_at' => '2015-05-30 00:17:13',
+				'updated_at' => '2015-05-30 07:16:58',
 			),
 			173 => 
 			array (
@@ -3492,7 +3492,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:35',
-				'updated_at' => '2015-05-30 00:17:18',
+				'updated_at' => '2015-05-30 07:16:58',
 			),
 			174 => 
 			array (
@@ -3512,7 +3512,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:35',
-				'updated_at' => '2015-05-30 00:17:23',
+				'updated_at' => '2015-05-30 07:16:58',
 			),
 			175 => 
 			array (
@@ -3532,7 +3532,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:35',
-				'updated_at' => '2015-05-30 00:17:28',
+				'updated_at' => '2015-05-30 07:16:58',
 			),
 			176 => 
 			array (
@@ -3552,7 +3552,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:35',
-				'updated_at' => '2015-05-30 00:17:33',
+				'updated_at' => '2015-05-30 07:16:58',
 			),
 			177 => 
 			array (
@@ -3572,7 +3572,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:35',
-				'updated_at' => '2015-05-30 00:17:38',
+				'updated_at' => '2015-05-30 07:16:58',
 			),
 			178 => 
 			array (
@@ -3592,7 +3592,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:35',
-				'updated_at' => '2015-05-30 00:17:43',
+				'updated_at' => '2015-05-30 07:16:58',
 			),
 			179 => 
 			array (
@@ -3612,7 +3612,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:35',
-				'updated_at' => '2015-05-30 00:17:48',
+				'updated_at' => '2015-05-30 07:16:58',
 			),
 			180 => 
 			array (
@@ -3632,7 +3632,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:35',
-				'updated_at' => '2015-05-30 00:17:53',
+				'updated_at' => '2015-05-30 07:16:58',
 			),
 			181 => 
 			array (
@@ -3652,7 +3652,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:36',
-				'updated_at' => '2015-05-30 00:17:59',
+				'updated_at' => '2015-05-30 07:17:04',
 			),
 			182 => 
 			array (
@@ -3672,7 +3672,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:36',
-				'updated_at' => '2015-05-30 00:18:04',
+				'updated_at' => '2015-05-30 07:17:04',
 			),
 			183 => 
 			array (
@@ -3692,7 +3692,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:36',
-				'updated_at' => '2015-05-30 00:18:09',
+				'updated_at' => '2015-05-30 07:17:04',
 			),
 			184 => 
 			array (
@@ -3712,7 +3712,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:36',
-				'updated_at' => '2015-05-30 00:18:14',
+				'updated_at' => '2015-05-30 07:17:04',
 			),
 			185 => 
 			array (
@@ -3732,7 +3732,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:36',
-				'updated_at' => '2015-05-30 00:18:19',
+				'updated_at' => '2015-05-30 07:17:04',
 			),
 			186 => 
 			array (
@@ -3752,7 +3752,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:36',
-				'updated_at' => '2015-05-30 00:18:24',
+				'updated_at' => '2015-05-30 07:17:04',
 			),
 			187 => 
 			array (
@@ -3772,7 +3772,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:36',
-				'updated_at' => '2015-05-30 00:18:29',
+				'updated_at' => '2015-05-30 07:17:04',
 			),
 			188 => 
 			array (
@@ -3792,7 +3792,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:36',
-				'updated_at' => '2015-05-30 00:18:34',
+				'updated_at' => '2015-05-30 07:17:04',
 			),
 			189 => 
 			array (
@@ -3812,7 +3812,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:36',
-				'updated_at' => '2015-05-30 00:18:39',
+				'updated_at' => '2015-05-30 07:17:04',
 			),
 			190 => 
 			array (
@@ -3832,7 +3832,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:36',
-				'updated_at' => '2015-05-30 00:18:44',
+				'updated_at' => '2015-05-30 07:17:04',
 			),
 			191 => 
 			array (
@@ -3852,7 +3852,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:36',
-				'updated_at' => '2015-05-30 00:18:49',
+				'updated_at' => '2015-05-30 07:17:04',
 			),
 			192 => 
 			array (
@@ -3872,7 +3872,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:36',
-				'updated_at' => '2015-05-30 00:18:54',
+				'updated_at' => '2015-05-30 07:17:04',
 			),
 			193 => 
 			array (
@@ -3892,7 +3892,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:36',
-				'updated_at' => '2015-05-30 00:18:59',
+				'updated_at' => '2015-05-30 07:17:04',
 			),
 			194 => 
 			array (
@@ -3912,7 +3912,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:36',
-				'updated_at' => '2015-05-30 00:19:04',
+				'updated_at' => '2015-05-30 07:17:04',
 			),
 			195 => 
 			array (
@@ -3932,7 +3932,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:36',
-				'updated_at' => '2015-05-30 00:19:09',
+				'updated_at' => '2015-05-30 07:17:04',
 			),
 			196 => 
 			array (
@@ -3952,7 +3952,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:37',
-				'updated_at' => '2015-05-30 00:19:16',
+				'updated_at' => '2015-05-30 07:17:10',
 			),
 			197 => 
 			array (
@@ -3972,7 +3972,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:37',
-				'updated_at' => '2015-05-30 00:19:21',
+				'updated_at' => '2015-05-30 07:17:10',
 			),
 			198 => 
 			array (
@@ -3992,7 +3992,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:37',
-				'updated_at' => '2015-05-30 00:19:26',
+				'updated_at' => '2015-05-30 07:17:10',
 			),
 			199 => 
 			array (
@@ -4012,7 +4012,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:37',
-				'updated_at' => '2015-05-30 00:19:31',
+				'updated_at' => '2015-05-30 07:17:10',
 			),
 			200 => 
 			array (
@@ -4032,7 +4032,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:37',
-				'updated_at' => '2015-05-30 00:19:36',
+				'updated_at' => '2015-05-30 07:17:10',
 			),
 			201 => 
 			array (
@@ -4052,7 +4052,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:37',
-				'updated_at' => '2015-05-30 00:19:41',
+				'updated_at' => '2015-05-30 07:17:10',
 			),
 			202 => 
 			array (
@@ -4072,7 +4072,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:37',
-				'updated_at' => '2015-05-30 00:19:46',
+				'updated_at' => '2015-05-30 07:17:10',
 			),
 			203 => 
 			array (
@@ -4092,7 +4092,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:37',
-				'updated_at' => '2015-05-30 00:19:52',
+				'updated_at' => '2015-05-30 07:17:16',
 			),
 			204 => 
 			array (
@@ -4112,7 +4112,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:37',
-				'updated_at' => '2015-05-30 00:19:57',
+				'updated_at' => '2015-05-30 07:17:16',
 			),
 			205 => 
 			array (
@@ -4132,7 +4132,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:37',
-				'updated_at' => '2015-05-30 00:20:02',
+				'updated_at' => '2015-05-30 07:17:16',
 			),
 			206 => 
 			array (
@@ -4152,7 +4152,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:20:08',
+				'updated_at' => '2015-05-30 07:17:22',
 			),
 			207 => 
 			array (
@@ -4172,7 +4172,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:20:13',
+				'updated_at' => '2015-05-30 07:17:22',
 			),
 			208 => 
 			array (
@@ -4192,7 +4192,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:20:18',
+				'updated_at' => '2015-05-30 07:17:22',
 			),
 			209 => 
 			array (
@@ -4212,7 +4212,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:20:23',
+				'updated_at' => '2015-05-30 07:17:22',
 			),
 			210 => 
 			array (
@@ -4232,7 +4232,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:20:28',
+				'updated_at' => '2015-05-30 07:17:22',
 			),
 			211 => 
 			array (
@@ -4252,7 +4252,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:20:33',
+				'updated_at' => '2015-05-30 07:17:22',
 			),
 			212 => 
 			array (
@@ -4272,7 +4272,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:20:38',
+				'updated_at' => '2015-05-30 07:17:22',
 			),
 			213 => 
 			array (
@@ -4292,7 +4292,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:20:43',
+				'updated_at' => '2015-05-30 07:17:22',
 			),
 			214 => 
 			array (
@@ -4312,7 +4312,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:20:48',
+				'updated_at' => '2015-05-30 07:17:22',
 			),
 			215 => 
 			array (
@@ -4332,7 +4332,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:20:53',
+				'updated_at' => '2015-05-30 07:17:22',
 			),
 			216 => 
 			array (
@@ -4352,7 +4352,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:20:58',
+				'updated_at' => '2015-05-30 07:17:22',
 			),
 			217 => 
 			array (
@@ -4372,7 +4372,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:21:03',
+				'updated_at' => '2015-05-30 07:17:22',
 			),
 			218 => 
 			array (
@@ -4392,7 +4392,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:21:08',
+				'updated_at' => '2015-05-30 07:17:22',
 			),
 			219 => 
 			array (
@@ -4412,7 +4412,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:21:13',
+				'updated_at' => '2015-05-30 07:17:22',
 			),
 			220 => 
 			array (
@@ -4432,7 +4432,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:21:18',
+				'updated_at' => '2015-05-30 07:17:22',
 			),
 			221 => 
 			array (
@@ -4452,7 +4452,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:21:23',
+				'updated_at' => '2015-05-30 07:17:22',
 			),
 			222 => 
 			array (
@@ -4472,7 +4472,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:21:29',
+				'updated_at' => '2015-05-30 07:17:22',
 			),
 			223 => 
 			array (
@@ -4492,7 +4492,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:21:34',
+				'updated_at' => '2015-05-30 07:17:22',
 			),
 			224 => 
 			array (
@@ -4512,7 +4512,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:21:39',
+				'updated_at' => '2015-05-30 07:17:22',
 			),
 			225 => 
 			array (
@@ -4532,7 +4532,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:21:44',
+				'updated_at' => '2015-05-30 07:17:22',
 			),
 			226 => 
 			array (
@@ -4552,7 +4552,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:21:49',
+				'updated_at' => '2015-05-30 07:17:22',
 			),
 			227 => 
 			array (
@@ -4572,7 +4572,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:21:54',
+				'updated_at' => '2015-05-30 07:17:22',
 			),
 			228 => 
 			array (
@@ -4592,7 +4592,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:21:59',
+				'updated_at' => '2015-05-30 07:17:22',
 			),
 			229 => 
 			array (
@@ -4612,7 +4612,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:22:04',
+				'updated_at' => '2015-05-30 07:17:22',
 			),
 			230 => 
 			array (
@@ -4632,7 +4632,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:22:09',
+				'updated_at' => '2015-05-30 07:17:22',
 			),
 			231 => 
 			array (
@@ -4652,7 +4652,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:22:14',
+				'updated_at' => '2015-05-30 07:17:22',
 			),
 			232 => 
 			array (
@@ -4672,7 +4672,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:22:19',
+				'updated_at' => '2015-05-30 07:17:22',
 			),
 			233 => 
 			array (
@@ -4692,7 +4692,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:22:24',
+				'updated_at' => '2015-05-30 07:17:22',
 			),
 			234 => 
 			array (
@@ -4712,7 +4712,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:22:29',
+				'updated_at' => '2015-05-30 07:17:22',
 			),
 			235 => 
 			array (
@@ -4732,7 +4732,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:22:34',
+				'updated_at' => '2015-05-30 07:17:22',
 			),
 			236 => 
 			array (
@@ -4752,7 +4752,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:22:39',
+				'updated_at' => '2015-05-30 07:17:22',
 			),
 			237 => 
 			array (
@@ -4772,7 +4772,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:22:44',
+				'updated_at' => '2015-05-30 07:17:22',
 			),
 			238 => 
 			array (
@@ -4792,7 +4792,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:22:49',
+				'updated_at' => '2015-05-30 07:17:22',
 			),
 			239 => 
 			array (
@@ -4812,7 +4812,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:22:54',
+				'updated_at' => '2015-05-30 07:17:22',
 			),
 			240 => 
 			array (
@@ -4832,7 +4832,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:22:59',
+				'updated_at' => '2015-05-30 07:17:22',
 			),
 			241 => 
 			array (
@@ -4852,7 +4852,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:23:04',
+				'updated_at' => '2015-05-30 07:17:22',
 			),
 			242 => 
 			array (
@@ -4872,7 +4872,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:23:09',
+				'updated_at' => '2015-05-30 07:17:22',
 			),
 			243 => 
 			array (
@@ -4892,7 +4892,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:23:14',
+				'updated_at' => '2015-05-30 07:17:22',
 			),
 			244 => 
 			array (
@@ -4912,7 +4912,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:23:19',
+				'updated_at' => '2015-05-30 07:17:22',
 			),
 			245 => 
 			array (
@@ -4932,7 +4932,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:23:24',
+				'updated_at' => '2015-05-30 07:17:22',
 			),
 			246 => 
 			array (
@@ -4952,7 +4952,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:23:29',
+				'updated_at' => '2015-05-30 07:17:22',
 			),
 			247 => 
 			array (
@@ -4972,7 +4972,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:23:34',
+				'updated_at' => '2015-05-30 07:17:22',
 			),
 			248 => 
 			array (
@@ -4992,7 +4992,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:23:39',
+				'updated_at' => '2015-05-30 07:17:22',
 			),
 			249 => 
 			array (
@@ -5012,7 +5012,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:23:44',
+				'updated_at' => '2015-05-30 07:17:22',
 			),
 			250 => 
 			array (
@@ -5032,7 +5032,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:23:49',
+				'updated_at' => '2015-05-30 07:17:22',
 			),
 			251 => 
 			array (
@@ -5052,7 +5052,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:23:54',
+				'updated_at' => '2015-05-30 07:17:22',
 			),
 			252 => 
 			array (
@@ -5072,7 +5072,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:23:59',
+				'updated_at' => '2015-05-30 07:17:22',
 			),
 			253 => 
 			array (
@@ -5092,7 +5092,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:24:04',
+				'updated_at' => '2015-05-30 07:17:22',
 			),
 			254 => 
 			array (
@@ -5112,7 +5112,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:24:09',
+				'updated_at' => '2015-05-30 07:17:22',
 			),
 			255 => 
 			array (
@@ -5132,7 +5132,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:24:14',
+				'updated_at' => '2015-05-30 07:17:22',
 			),
 			256 => 
 			array (
@@ -5152,7 +5152,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:24:19',
+				'updated_at' => '2015-05-30 07:17:22',
 			),
 			257 => 
 			array (
@@ -5172,7 +5172,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:24:24',
+				'updated_at' => '2015-05-30 07:17:22',
 			),
 			258 => 
 			array (
@@ -5192,7 +5192,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:24:29',
+				'updated_at' => '2015-05-30 07:17:22',
 			),
 			259 => 
 			array (
@@ -5212,7 +5212,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:24:34',
+				'updated_at' => '2015-05-30 07:17:22',
 			),
 			260 => 
 			array (
@@ -5232,7 +5232,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:24:39',
+				'updated_at' => '2015-05-30 07:17:22',
 			),
 			261 => 
 			array (
@@ -5252,7 +5252,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:24:44',
+				'updated_at' => '2015-05-30 07:17:22',
 			),
 			262 => 
 			array (
@@ -5272,7 +5272,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:24:49',
+				'updated_at' => '2015-05-30 07:17:22',
 			),
 			263 => 
 			array (
@@ -5292,7 +5292,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:24:54',
+				'updated_at' => '2015-05-30 07:17:22',
 			),
 			264 => 
 			array (
@@ -5312,7 +5312,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:24:59',
+				'updated_at' => '2015-05-30 07:17:22',
 			),
 			265 => 
 			array (
@@ -5332,7 +5332,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:25:04',
+				'updated_at' => '2015-05-30 07:17:22',
 			),
 			266 => 
 			array (
@@ -5352,7 +5352,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:25:09',
+				'updated_at' => '2015-05-30 07:17:22',
 			),
 			267 => 
 			array (
@@ -5372,7 +5372,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:25:14',
+				'updated_at' => '2015-05-30 07:17:22',
 			),
 			268 => 
 			array (
@@ -5392,7 +5392,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:25:19',
+				'updated_at' => '2015-05-30 07:17:22',
 			),
 			269 => 
 			array (
@@ -5412,7 +5412,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:25:25',
+				'updated_at' => '2015-05-30 07:17:22',
 			),
 			270 => 
 			array (
@@ -5432,7 +5432,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:25:30',
+				'updated_at' => '2015-05-30 07:17:22',
 			),
 			271 => 
 			array (
@@ -5452,7 +5452,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:25:35',
+				'updated_at' => '2015-05-30 07:17:22',
 			),
 			272 => 
 			array (
@@ -5472,7 +5472,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:25:40',
+				'updated_at' => '2015-05-30 07:17:22',
 			),
 			273 => 
 			array (
@@ -5492,7 +5492,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:25:45',
+				'updated_at' => '2015-05-30 07:17:22',
 			),
 			274 => 
 			array (
@@ -5512,7 +5512,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:25:50',
+				'updated_at' => '2015-05-30 07:17:22',
 			),
 			275 => 
 			array (
@@ -5532,7 +5532,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:25:55',
+				'updated_at' => '2015-05-30 07:17:22',
 			),
 			276 => 
 			array (
@@ -5552,7 +5552,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:26:00',
+				'updated_at' => '2015-05-30 07:17:22',
 			),
 			277 => 
 			array (
@@ -5572,7 +5572,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:26:05',
+				'updated_at' => '2015-05-30 07:17:22',
 			),
 			278 => 
 			array (
@@ -5592,7 +5592,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:26:10',
+				'updated_at' => '2015-05-30 07:17:23',
 			),
 			279 => 
 			array (
@@ -5612,7 +5612,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:26:15',
+				'updated_at' => '2015-05-30 07:17:23',
 			),
 			280 => 
 			array (
@@ -5632,7 +5632,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:26:20',
+				'updated_at' => '2015-05-30 07:17:23',
 			),
 			281 => 
 			array (
@@ -5652,7 +5652,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:26:25',
+				'updated_at' => '2015-05-30 07:17:23',
 			),
 			282 => 
 			array (
@@ -5672,7 +5672,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:26:30',
+				'updated_at' => '2015-05-30 07:17:23',
 			),
 			283 => 
 			array (
@@ -5692,7 +5692,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:26:35',
+				'updated_at' => '2015-05-30 07:17:23',
 			),
 			284 => 
 			array (
@@ -5712,7 +5712,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:26:40',
+				'updated_at' => '2015-05-30 07:17:23',
 			),
 			285 => 
 			array (
@@ -5732,7 +5732,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:26:45',
+				'updated_at' => '2015-05-30 07:17:23',
 			),
 			286 => 
 			array (
@@ -5752,7 +5752,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:26:50',
+				'updated_at' => '2015-05-30 07:17:23',
 			),
 			287 => 
 			array (
@@ -5772,7 +5772,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:26:55',
+				'updated_at' => '2015-05-30 07:17:23',
 			),
 			288 => 
 			array (
@@ -5792,7 +5792,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:27:00',
+				'updated_at' => '2015-05-30 07:17:23',
 			),
 			289 => 
 			array (
@@ -5812,7 +5812,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:27:05',
+				'updated_at' => '2015-05-30 07:17:23',
 			),
 			290 => 
 			array (
@@ -5832,7 +5832,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:27:10',
+				'updated_at' => '2015-05-30 07:17:23',
 			),
 			291 => 
 			array (
@@ -5852,7 +5852,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:27:15',
+				'updated_at' => '2015-05-30 07:17:23',
 			),
 			292 => 
 			array (
@@ -5872,7 +5872,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:27:20',
+				'updated_at' => '2015-05-30 07:17:23',
 			),
 			293 => 
 			array (
@@ -5892,7 +5892,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:27:25',
+				'updated_at' => '2015-05-30 07:17:23',
 			),
 			294 => 
 			array (
@@ -5912,7 +5912,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:27:30',
+				'updated_at' => '2015-05-30 07:17:23',
 			),
 			295 => 
 			array (
@@ -5932,7 +5932,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:44',
-				'updated_at' => '2015-05-30 00:27:35',
+				'updated_at' => '2015-05-30 07:17:23',
 			),
 			296 => 
 			array (
@@ -5952,7 +5952,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:27:41',
+				'updated_at' => '2015-05-30 07:17:28',
 			),
 			297 => 
 			array (
@@ -5972,7 +5972,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:27:46',
+				'updated_at' => '2015-05-30 07:17:28',
 			),
 			298 => 
 			array (
@@ -5992,7 +5992,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:27:51',
+				'updated_at' => '2015-05-30 07:17:28',
 			),
 			299 => 
 			array (
@@ -6012,7 +6012,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:27:56',
+				'updated_at' => '2015-05-30 07:17:28',
 			),
 			300 => 
 			array (
@@ -6032,7 +6032,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:28:01',
+				'updated_at' => '2015-05-30 07:17:28',
 			),
 			301 => 
 			array (
@@ -6052,7 +6052,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:28:06',
+				'updated_at' => '2015-05-30 07:17:28',
 			),
 			302 => 
 			array (
@@ -6072,7 +6072,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:28:11',
+				'updated_at' => '2015-05-30 07:17:28',
 			),
 			303 => 
 			array (
@@ -6092,7 +6092,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:28:16',
+				'updated_at' => '2015-05-30 07:17:28',
 			),
 			304 => 
 			array (
@@ -6112,7 +6112,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:28:21',
+				'updated_at' => '2015-05-30 07:17:28',
 			),
 			305 => 
 			array (
@@ -6132,7 +6132,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:28:26',
+				'updated_at' => '2015-05-30 07:17:29',
 			),
 			306 => 
 			array (
@@ -6152,7 +6152,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:28:31',
+				'updated_at' => '2015-05-30 07:17:29',
 			),
 			307 => 
 			array (
@@ -6172,7 +6172,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:28:36',
+				'updated_at' => '2015-05-30 07:17:29',
 			),
 			308 => 
 			array (
@@ -6192,7 +6192,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:28:41',
+				'updated_at' => '2015-05-30 07:17:29',
 			),
 			309 => 
 			array (
@@ -6212,7 +6212,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:28:46',
+				'updated_at' => '2015-05-30 07:17:29',
 			),
 			310 => 
 			array (
@@ -6232,7 +6232,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:28:51',
+				'updated_at' => '2015-05-30 07:17:29',
 			),
 			311 => 
 			array (
@@ -6252,7 +6252,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:28:56',
+				'updated_at' => '2015-05-30 07:17:29',
 			),
 			312 => 
 			array (
@@ -6272,7 +6272,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:29:01',
+				'updated_at' => '2015-05-30 07:17:29',
 			),
 			313 => 
 			array (
@@ -6292,7 +6292,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:29:06',
+				'updated_at' => '2015-05-30 07:17:29',
 			),
 			314 => 
 			array (
@@ -6312,7 +6312,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:29:11',
+				'updated_at' => '2015-05-30 07:17:29',
 			),
 			315 => 
 			array (
@@ -6332,7 +6332,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:29:16',
+				'updated_at' => '2015-05-30 07:17:29',
 			),
 			316 => 
 			array (
@@ -6352,7 +6352,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:29:21',
+				'updated_at' => '2015-05-30 07:17:29',
 			),
 			317 => 
 			array (
@@ -6372,7 +6372,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:29:26',
+				'updated_at' => '2015-05-30 07:17:29',
 			),
 			318 => 
 			array (
@@ -6392,7 +6392,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:29:31',
+				'updated_at' => '2015-05-30 07:17:29',
 			),
 			319 => 
 			array (
@@ -6412,7 +6412,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:29:36',
+				'updated_at' => '2015-05-30 07:17:29',
 			),
 			320 => 
 			array (
@@ -6432,7 +6432,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:29:41',
+				'updated_at' => '2015-05-30 07:17:29',
 			),
 			321 => 
 			array (
@@ -6452,7 +6452,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:29:46',
+				'updated_at' => '2015-05-30 07:17:29',
 			),
 			322 => 
 			array (
@@ -6472,7 +6472,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:29:51',
+				'updated_at' => '2015-05-30 07:17:29',
 			),
 			323 => 
 			array (
@@ -6492,7 +6492,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:29:56',
+				'updated_at' => '2015-05-30 07:17:29',
 			),
 			324 => 
 			array (
@@ -6512,7 +6512,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:30:01',
+				'updated_at' => '2015-05-30 07:17:29',
 			),
 			325 => 
 			array (
@@ -6532,7 +6532,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:30:06',
+				'updated_at' => '2015-05-30 07:17:29',
 			),
 			326 => 
 			array (
@@ -6552,7 +6552,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:30:11',
+				'updated_at' => '2015-05-30 07:17:29',
 			),
 			327 => 
 			array (
@@ -6572,7 +6572,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:30:16',
+				'updated_at' => '2015-05-30 07:17:29',
 			),
 			328 => 
 			array (
@@ -6592,7 +6592,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:30:21',
+				'updated_at' => '2015-05-30 07:17:29',
 			),
 			329 => 
 			array (
@@ -6612,7 +6612,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:30:26',
+				'updated_at' => '2015-05-30 07:17:29',
 			),
 			330 => 
 			array (
@@ -6632,7 +6632,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:30:31',
+				'updated_at' => '2015-05-30 07:17:29',
 			),
 			331 => 
 			array (
@@ -6652,7 +6652,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:30:37',
+				'updated_at' => '2015-05-30 07:17:29',
 			),
 			332 => 
 			array (
@@ -6672,7 +6672,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:30:42',
+				'updated_at' => '2015-05-30 07:17:29',
 			),
 			333 => 
 			array (
@@ -6692,7 +6692,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:30:47',
+				'updated_at' => '2015-05-30 07:17:29',
 			),
 			334 => 
 			array (
@@ -6712,7 +6712,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:30:52',
+				'updated_at' => '2015-05-30 07:17:29',
 			),
 			335 => 
 			array (
@@ -6732,7 +6732,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:30:57',
+				'updated_at' => '2015-05-30 07:17:29',
 			),
 			336 => 
 			array (
@@ -6752,7 +6752,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:31:02',
+				'updated_at' => '2015-05-30 07:17:29',
 			),
 			337 => 
 			array (
@@ -6772,7 +6772,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:31:07',
+				'updated_at' => '2015-05-30 07:17:29',
 			),
 			338 => 
 			array (
@@ -6792,7 +6792,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:31:12',
+				'updated_at' => '2015-05-30 07:17:29',
 			),
 			339 => 
 			array (
@@ -6812,7 +6812,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:31:17',
+				'updated_at' => '2015-05-30 07:17:29',
 			),
 			340 => 
 			array (
@@ -6832,7 +6832,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:31:22',
+				'updated_at' => '2015-05-30 07:17:29',
 			),
 			341 => 
 			array (
@@ -6852,7 +6852,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:31:27',
+				'updated_at' => '2015-05-30 07:17:29',
 			),
 			342 => 
 			array (
@@ -6872,7 +6872,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:31:32',
+				'updated_at' => '2015-05-30 07:17:29',
 			),
 			343 => 
 			array (
@@ -6892,7 +6892,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:31:37',
+				'updated_at' => '2015-05-30 07:17:29',
 			),
 			344 => 
 			array (
@@ -6912,7 +6912,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:31:42',
+				'updated_at' => '2015-05-30 07:17:29',
 			),
 			345 => 
 			array (
@@ -6932,7 +6932,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:31:47',
+				'updated_at' => '2015-05-30 07:17:29',
 			),
 			346 => 
 			array (
@@ -6952,7 +6952,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:31:52',
+				'updated_at' => '2015-05-30 07:17:29',
 			),
 			347 => 
 			array (
@@ -6972,7 +6972,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:31:57',
+				'updated_at' => '2015-05-30 07:17:29',
 			),
 			348 => 
 			array (
@@ -6992,7 +6992,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:32:02',
+				'updated_at' => '2015-05-30 07:17:29',
 			),
 			349 => 
 			array (
@@ -7012,7 +7012,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:32:07',
+				'updated_at' => '2015-05-30 07:17:29',
 			),
 			350 => 
 			array (
@@ -7032,7 +7032,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:32:12',
+				'updated_at' => '2015-05-30 07:17:29',
 			),
 			351 => 
 			array (
@@ -7052,7 +7052,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:32:17',
+				'updated_at' => '2015-05-30 07:17:29',
 			),
 			352 => 
 			array (
@@ -7072,7 +7072,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:32:22',
+				'updated_at' => '2015-05-30 07:17:29',
 			),
 			353 => 
 			array (
@@ -7092,7 +7092,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:32:27',
+				'updated_at' => '2015-05-30 07:17:29',
 			),
 			354 => 
 			array (
@@ -7112,7 +7112,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:32:32',
+				'updated_at' => '2015-05-30 07:17:29',
 			),
 			355 => 
 			array (
@@ -7132,7 +7132,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:32:37',
+				'updated_at' => '2015-05-30 07:17:29',
 			),
 			356 => 
 			array (
@@ -7152,7 +7152,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:32:42',
+				'updated_at' => '2015-05-30 07:17:29',
 			),
 			357 => 
 			array (
@@ -7172,7 +7172,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:32:47',
+				'updated_at' => '2015-05-30 07:17:29',
 			),
 			358 => 
 			array (
@@ -7192,7 +7192,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:32:52',
+				'updated_at' => '2015-05-30 07:17:29',
 			),
 			359 => 
 			array (
@@ -7212,7 +7212,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:32:57',
+				'updated_at' => '2015-05-30 07:17:29',
 			),
 			360 => 
 			array (
@@ -7232,7 +7232,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:33:02',
+				'updated_at' => '2015-05-30 07:17:29',
 			),
 			361 => 
 			array (
@@ -7252,7 +7252,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:33:07',
+				'updated_at' => '2015-05-30 07:17:29',
 			),
 			362 => 
 			array (
@@ -7272,7 +7272,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:33:12',
+				'updated_at' => '2015-05-30 07:17:29',
 			),
 			363 => 
 			array (
@@ -7292,7 +7292,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:33:17',
+				'updated_at' => '2015-05-30 07:17:29',
 			),
 			364 => 
 			array (
@@ -7312,7 +7312,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:33:22',
+				'updated_at' => '2015-05-30 07:17:29',
 			),
 			365 => 
 			array (
@@ -7332,7 +7332,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:33:27',
+				'updated_at' => '2015-05-30 07:17:29',
 			),
 			366 => 
 			array (
@@ -7352,7 +7352,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:33:32',
+				'updated_at' => '2015-05-30 07:17:29',
 			),
 			367 => 
 			array (
@@ -7372,7 +7372,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:33:37',
+				'updated_at' => '2015-05-30 07:17:29',
 			),
 			368 => 
 			array (
@@ -7392,7 +7392,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:33:42',
+				'updated_at' => '2015-05-30 07:17:29',
 			),
 			369 => 
 			array (
@@ -7412,7 +7412,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:33:47',
+				'updated_at' => '2015-05-30 07:17:29',
 			),
 			370 => 
 			array (
@@ -7432,7 +7432,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:33:52',
+				'updated_at' => '2015-05-30 07:17:29',
 			),
 			371 => 
 			array (
@@ -7452,7 +7452,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:33:57',
+				'updated_at' => '2015-05-30 07:17:29',
 			),
 			372 => 
 			array (
@@ -7472,7 +7472,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:34:02',
+				'updated_at' => '2015-05-30 07:17:29',
 			),
 			373 => 
 			array (
@@ -7492,7 +7492,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:34:07',
+				'updated_at' => '2015-05-30 07:17:29',
 			),
 			374 => 
 			array (
@@ -7512,7 +7512,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:34:12',
+				'updated_at' => '2015-05-30 07:17:29',
 			),
 			375 => 
 			array (
@@ -7532,7 +7532,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:34:17',
+				'updated_at' => '2015-05-30 07:17:29',
 			),
 			376 => 
 			array (
@@ -7552,7 +7552,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:34:22',
+				'updated_at' => '2015-05-30 07:17:29',
 			),
 			377 => 
 			array (
@@ -7572,7 +7572,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:34:27',
+				'updated_at' => '2015-05-30 07:17:29',
 			),
 			378 => 
 			array (
@@ -7592,7 +7592,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:34:32',
+				'updated_at' => '2015-05-30 07:17:29',
 			),
 			379 => 
 			array (
@@ -7612,7 +7612,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:34:37',
+				'updated_at' => '2015-05-30 07:17:29',
 			),
 			380 => 
 			array (
@@ -7632,7 +7632,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:34:43',
+				'updated_at' => '2015-05-30 07:17:29',
 			),
 			381 => 
 			array (
@@ -7652,7 +7652,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:34:48',
+				'updated_at' => '2015-05-30 07:17:29',
 			),
 			382 => 
 			array (
@@ -7672,7 +7672,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:34:53',
+				'updated_at' => '2015-05-30 07:17:29',
 			),
 			383 => 
 			array (
@@ -7692,7 +7692,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:34:58',
+				'updated_at' => '2015-05-30 07:17:29',
 			),
 			384 => 
 			array (
@@ -7712,7 +7712,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:35:03',
+				'updated_at' => '2015-05-30 07:17:29',
 			),
 			385 => 
 			array (
@@ -7732,7 +7732,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-29 23:51:45',
-				'updated_at' => '2015-05-30 00:35:08',
+				'updated_at' => '2015-05-30 07:17:29',
 			),
 			386 => 
 			array (
@@ -7752,7 +7752,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:40',
-				'updated_at' => '2015-05-30 00:35:14',
+				'updated_at' => '2015-05-30 07:17:36',
 			),
 			387 => 
 			array (
@@ -7772,7 +7772,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:40',
-				'updated_at' => '2015-05-30 00:35:19',
+				'updated_at' => '2015-05-30 07:17:36',
 			),
 			388 => 
 			array (
@@ -7792,7 +7792,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:40',
-				'updated_at' => '2015-05-30 00:35:24',
+				'updated_at' => '2015-05-30 07:17:37',
 			),
 			389 => 
 			array (
@@ -7812,7 +7812,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:40',
-				'updated_at' => '2015-05-30 00:35:29',
+				'updated_at' => '2015-05-30 07:17:37',
 			),
 			390 => 
 			array (
@@ -7832,7 +7832,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:40',
-				'updated_at' => '2015-05-30 00:35:34',
+				'updated_at' => '2015-05-30 07:17:37',
 			),
 			391 => 
 			array (
@@ -7852,7 +7852,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:40',
-				'updated_at' => '2015-05-30 00:35:39',
+				'updated_at' => '2015-05-30 07:17:37',
 			),
 			392 => 
 			array (
@@ -7872,7 +7872,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:40',
-				'updated_at' => '2015-05-30 00:35:44',
+				'updated_at' => '2015-05-30 07:17:37',
 			),
 			393 => 
 			array (
@@ -7892,7 +7892,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:40',
-				'updated_at' => '2015-05-30 00:35:50',
+				'updated_at' => '2015-05-30 07:17:37',
 			),
 			394 => 
 			array (
@@ -7912,7 +7912,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:40',
-				'updated_at' => '2015-05-30 00:35:55',
+				'updated_at' => '2015-05-30 07:17:37',
 			),
 			395 => 
 			array (
@@ -7932,7 +7932,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:40',
-				'updated_at' => '2015-05-30 00:36:00',
+				'updated_at' => '2015-05-30 07:17:37',
 			),
 			396 => 
 			array (
@@ -7952,7 +7952,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:40',
-				'updated_at' => '2015-05-30 00:36:05',
+				'updated_at' => '2015-05-30 07:17:37',
 			),
 			397 => 
 			array (
@@ -7972,7 +7972,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:40',
-				'updated_at' => '2015-05-30 00:36:10',
+				'updated_at' => '2015-05-30 07:17:37',
 			),
 			398 => 
 			array (
@@ -7992,7 +7992,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:40',
-				'updated_at' => '2015-05-30 00:36:15',
+				'updated_at' => '2015-05-30 07:17:37',
 			),
 			399 => 
 			array (
@@ -8012,7 +8012,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:40',
-				'updated_at' => '2015-05-30 00:36:20',
+				'updated_at' => '2015-05-30 07:17:37',
 			),
 			400 => 
 			array (
@@ -8032,7 +8032,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:40',
-				'updated_at' => '2015-05-30 00:36:25',
+				'updated_at' => '2015-05-30 07:17:37',
 			),
 			401 => 
 			array (
@@ -8052,7 +8052,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:40',
-				'updated_at' => '2015-05-30 00:36:30',
+				'updated_at' => '2015-05-30 07:17:37',
 			),
 			402 => 
 			array (
@@ -8072,7 +8072,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:40',
-				'updated_at' => '2015-05-30 00:36:35',
+				'updated_at' => '2015-05-30 07:17:37',
 			),
 			403 => 
 			array (
@@ -8092,7 +8092,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:40',
-				'updated_at' => '2015-05-30 00:36:40',
+				'updated_at' => '2015-05-30 07:17:37',
 			),
 			404 => 
 			array (
@@ -8112,7 +8112,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:40',
-				'updated_at' => '2015-05-30 00:36:45',
+				'updated_at' => '2015-05-30 07:17:37',
 			),
 			405 => 
 			array (
@@ -8132,7 +8132,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:40',
-				'updated_at' => '2015-05-30 00:36:50',
+				'updated_at' => '2015-05-30 07:17:37',
 			),
 			406 => 
 			array (
@@ -8152,7 +8152,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:40',
-				'updated_at' => '2015-05-30 00:36:55',
+				'updated_at' => '2015-05-30 07:17:37',
 			),
 			407 => 
 			array (
@@ -8172,7 +8172,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:40',
-				'updated_at' => '2015-05-30 00:37:00',
+				'updated_at' => '2015-05-30 07:17:37',
 			),
 			408 => 
 			array (
@@ -8192,7 +8192,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:40',
-				'updated_at' => '2015-05-30 00:37:05',
+				'updated_at' => '2015-05-30 07:17:37',
 			),
 			409 => 
 			array (
@@ -8212,7 +8212,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:40',
-				'updated_at' => '2015-05-30 00:37:10',
+				'updated_at' => '2015-05-30 07:17:37',
 			),
 			410 => 
 			array (
@@ -8232,7 +8232,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:40',
-				'updated_at' => '2015-05-30 00:37:15',
+				'updated_at' => '2015-05-30 07:17:37',
 			),
 			411 => 
 			array (
@@ -8252,7 +8252,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:40',
-				'updated_at' => '2015-05-30 00:37:20',
+				'updated_at' => '2015-05-30 07:17:37',
 			),
 			412 => 
 			array (
@@ -8272,7 +8272,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:40',
-				'updated_at' => '2015-05-30 00:37:25',
+				'updated_at' => '2015-05-30 07:17:37',
 			),
 			413 => 
 			array (
@@ -8292,7 +8292,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:40',
-				'updated_at' => '2015-05-30 00:37:30',
+				'updated_at' => '2015-05-30 07:17:37',
 			),
 			414 => 
 			array (
@@ -8312,7 +8312,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:40',
-				'updated_at' => '2015-05-30 00:37:35',
+				'updated_at' => '2015-05-30 07:17:37',
 			),
 			415 => 
 			array (
@@ -8332,7 +8332,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:40',
-				'updated_at' => '2015-05-30 00:37:40',
+				'updated_at' => '2015-05-30 07:17:37',
 			),
 			416 => 
 			array (
@@ -8352,7 +8352,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:40',
-				'updated_at' => '2015-05-30 00:37:45',
+				'updated_at' => '2015-05-30 07:17:37',
 			),
 			417 => 
 			array (
@@ -8372,7 +8372,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:40',
-				'updated_at' => '2015-05-30 00:37:50',
+				'updated_at' => '2015-05-30 07:17:37',
 			),
 			418 => 
 			array (
@@ -8392,7 +8392,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:40',
-				'updated_at' => '2015-05-30 00:37:55',
+				'updated_at' => '2015-05-30 07:17:37',
 			),
 			419 => 
 			array (
@@ -8412,7 +8412,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:40',
-				'updated_at' => '2015-05-30 00:38:00',
+				'updated_at' => '2015-05-30 07:17:37',
 			),
 			420 => 
 			array (
@@ -8432,7 +8432,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:40',
-				'updated_at' => '2015-05-30 00:38:05',
+				'updated_at' => '2015-05-30 07:17:37',
 			),
 			421 => 
 			array (
@@ -8452,7 +8452,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:40',
-				'updated_at' => '2015-05-30 00:38:10',
+				'updated_at' => '2015-05-30 07:17:37',
 			),
 			422 => 
 			array (
@@ -8472,7 +8472,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:40',
-				'updated_at' => '2015-05-30 00:38:15',
+				'updated_at' => '2015-05-30 07:17:37',
 			),
 			423 => 
 			array (
@@ -8492,7 +8492,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:40',
-				'updated_at' => '2015-05-30 00:38:20',
+				'updated_at' => '2015-05-30 07:17:37',
 			),
 			424 => 
 			array (
@@ -8512,7 +8512,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:40',
-				'updated_at' => '2015-05-30 00:38:25',
+				'updated_at' => '2015-05-30 07:17:37',
 			),
 			425 => 
 			array (
@@ -8532,7 +8532,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:40',
-				'updated_at' => '2015-05-30 00:38:30',
+				'updated_at' => '2015-05-30 07:17:37',
 			),
 			426 => 
 			array (
@@ -8552,7 +8552,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:40',
-				'updated_at' => '2015-05-30 00:38:35',
+				'updated_at' => '2015-05-30 07:17:37',
 			),
 			427 => 
 			array (
@@ -8572,7 +8572,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:40',
-				'updated_at' => '2015-05-30 00:38:40',
+				'updated_at' => '2015-05-30 07:17:37',
 			),
 			428 => 
 			array (
@@ -8592,7 +8592,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:40',
-				'updated_at' => '2015-05-30 00:38:45',
+				'updated_at' => '2015-05-30 07:17:37',
 			),
 			429 => 
 			array (
@@ -8612,7 +8612,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:40',
-				'updated_at' => '2015-05-30 00:38:50',
+				'updated_at' => '2015-05-30 07:17:37',
 			),
 			430 => 
 			array (
@@ -8632,7 +8632,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:40',
-				'updated_at' => '2015-05-30 00:38:55',
+				'updated_at' => '2015-05-30 07:17:37',
 			),
 			431 => 
 			array (
@@ -8652,7 +8652,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:40',
-				'updated_at' => '2015-05-30 00:39:00',
+				'updated_at' => '2015-05-30 07:17:37',
 			),
 			432 => 
 			array (
@@ -8672,7 +8672,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:40',
-				'updated_at' => '2015-05-30 00:39:05',
+				'updated_at' => '2015-05-30 07:17:37',
 			),
 			433 => 
 			array (
@@ -8692,7 +8692,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:40',
-				'updated_at' => '2015-05-30 00:39:10',
+				'updated_at' => '2015-05-30 07:17:37',
 			),
 			434 => 
 			array (
@@ -8712,7 +8712,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:41',
-				'updated_at' => '2015-05-30 00:39:15',
+				'updated_at' => '2015-05-30 07:17:37',
 			),
 			435 => 
 			array (
@@ -8732,7 +8732,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:41',
-				'updated_at' => '2015-05-30 00:39:20',
+				'updated_at' => '2015-05-30 07:17:37',
 			),
 			436 => 
 			array (
@@ -8752,7 +8752,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:41',
-				'updated_at' => '2015-05-30 00:39:25',
+				'updated_at' => '2015-05-30 07:17:37',
 			),
 			437 => 
 			array (
@@ -8772,7 +8772,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:41',
-				'updated_at' => '2015-05-30 00:39:30',
+				'updated_at' => '2015-05-30 07:17:37',
 			),
 			438 => 
 			array (
@@ -8792,7 +8792,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:41',
-				'updated_at' => '2015-05-30 00:39:36',
+				'updated_at' => '2015-05-30 07:17:37',
 			),
 			439 => 
 			array (
@@ -8812,7 +8812,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:41',
-				'updated_at' => '2015-05-30 00:39:41',
+				'updated_at' => '2015-05-30 07:17:37',
 			),
 			440 => 
 			array (
@@ -8832,7 +8832,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:41',
-				'updated_at' => '2015-05-30 00:39:46',
+				'updated_at' => '2015-05-30 07:17:37',
 			),
 			441 => 
 			array (
@@ -8852,7 +8852,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:41',
-				'updated_at' => '2015-05-30 00:39:51',
+				'updated_at' => '2015-05-30 07:17:37',
 			),
 			442 => 
 			array (
@@ -8872,7 +8872,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:41',
-				'updated_at' => '2015-05-30 00:39:58',
+				'updated_at' => '2015-05-30 07:17:44',
 			),
 			443 => 
 			array (
@@ -8892,7 +8892,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:41',
-				'updated_at' => '2015-05-30 00:40:03',
+				'updated_at' => '2015-05-30 07:17:44',
 			),
 			444 => 
 			array (
@@ -8912,7 +8912,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:41',
-				'updated_at' => '2015-05-30 00:40:08',
+				'updated_at' => '2015-05-30 07:17:44',
 			),
 			445 => 
 			array (
@@ -8932,7 +8932,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:41',
-				'updated_at' => '2015-05-30 00:40:13',
+				'updated_at' => '2015-05-30 07:17:44',
 			),
 			446 => 
 			array (
@@ -8952,7 +8952,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:41',
-				'updated_at' => '2015-05-30 00:40:18',
+				'updated_at' => '2015-05-30 07:17:44',
 			),
 			447 => 
 			array (
@@ -8972,7 +8972,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:41',
-				'updated_at' => '2015-05-30 00:40:23',
+				'updated_at' => '2015-05-30 07:17:44',
 			),
 			448 => 
 			array (
@@ -8992,7 +8992,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:41',
-				'updated_at' => '2015-05-30 00:40:28',
+				'updated_at' => '2015-05-30 07:17:44',
 			),
 			449 => 
 			array (
@@ -9012,7 +9012,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:41',
-				'updated_at' => '2015-05-30 00:40:33',
+				'updated_at' => '2015-05-30 07:17:44',
 			),
 			450 => 
 			array (
@@ -9032,7 +9032,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:41',
-				'updated_at' => '2015-05-30 00:40:38',
+				'updated_at' => '2015-05-30 07:17:44',
 			),
 			451 => 
 			array (
@@ -9052,7 +9052,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:41',
-				'updated_at' => '2015-05-30 00:40:43',
+				'updated_at' => '2015-05-30 07:17:44',
 			),
 			452 => 
 			array (
@@ -9072,7 +9072,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:41',
-				'updated_at' => '2015-05-30 00:40:48',
+				'updated_at' => '2015-05-30 07:17:44',
 			),
 			453 => 
 			array (
@@ -9092,7 +9092,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:41',
-				'updated_at' => '2015-05-30 00:40:53',
+				'updated_at' => '2015-05-30 07:17:44',
 			),
 			454 => 
 			array (
@@ -9112,7 +9112,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:41',
-				'updated_at' => '2015-05-30 00:40:58',
+				'updated_at' => '2015-05-30 07:17:44',
 			),
 			455 => 
 			array (
@@ -9132,7 +9132,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:41',
-				'updated_at' => '2015-05-30 00:41:03',
+				'updated_at' => '2015-05-30 07:17:44',
 			),
 			456 => 
 			array (
@@ -9152,7 +9152,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:41',
-				'updated_at' => '2015-05-30 00:41:08',
+				'updated_at' => '2015-05-30 07:17:44',
 			),
 			457 => 
 			array (
@@ -9172,7 +9172,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:41',
-				'updated_at' => '2015-05-30 00:41:13',
+				'updated_at' => '2015-05-30 07:17:44',
 			),
 			458 => 
 			array (
@@ -9192,7 +9192,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:41',
-				'updated_at' => '2015-05-30 00:41:18',
+				'updated_at' => '2015-05-30 07:17:44',
 			),
 			459 => 
 			array (
@@ -9212,7 +9212,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:41',
-				'updated_at' => '2015-05-30 00:41:23',
+				'updated_at' => '2015-05-30 07:17:44',
 			),
 			460 => 
 			array (
@@ -9232,7 +9232,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:41',
-				'updated_at' => '2015-05-30 00:41:28',
+				'updated_at' => '2015-05-30 07:17:44',
 			),
 			461 => 
 			array (
@@ -9252,7 +9252,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:41',
-				'updated_at' => '2015-05-30 00:41:33',
+				'updated_at' => '2015-05-30 07:17:44',
 			),
 			462 => 
 			array (
@@ -9272,7 +9272,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:41',
-				'updated_at' => '2015-05-30 00:41:38',
+				'updated_at' => '2015-05-30 07:17:44',
 			),
 			463 => 
 			array (
@@ -9292,7 +9292,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:41',
-				'updated_at' => '2015-05-30 00:41:43',
+				'updated_at' => '2015-05-30 07:17:44',
 			),
 			464 => 
 			array (
@@ -9312,7 +9312,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:41',
-				'updated_at' => '2015-05-30 00:41:48',
+				'updated_at' => '2015-05-30 07:17:44',
 			),
 			465 => 
 			array (
@@ -9332,7 +9332,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:41',
-				'updated_at' => '2015-05-30 00:41:53',
+				'updated_at' => '2015-05-30 07:17:44',
 			),
 			466 => 
 			array (
@@ -9352,7 +9352,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:41',
-				'updated_at' => '2015-05-30 00:41:58',
+				'updated_at' => '2015-05-30 07:17:44',
 			),
 			467 => 
 			array (
@@ -9372,7 +9372,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:41',
-				'updated_at' => '2015-05-30 00:42:03',
+				'updated_at' => '2015-05-30 07:17:44',
 			),
 			468 => 
 			array (
@@ -9392,7 +9392,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:41',
-				'updated_at' => '2015-05-30 00:42:08',
+				'updated_at' => '2015-05-30 07:17:44',
 			),
 			469 => 
 			array (
@@ -9412,7 +9412,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:41',
-				'updated_at' => '2015-05-30 00:42:13',
+				'updated_at' => '2015-05-30 07:17:44',
 			),
 			470 => 
 			array (
@@ -9432,7 +9432,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:41',
-				'updated_at' => '2015-05-30 00:42:18',
+				'updated_at' => '2015-05-30 07:17:44',
 			),
 			471 => 
 			array (
@@ -9452,7 +9452,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:41',
-				'updated_at' => '2015-05-30 00:42:23',
+				'updated_at' => '2015-05-30 07:17:44',
 			),
 			472 => 
 			array (
@@ -9472,7 +9472,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:41',
-				'updated_at' => '2015-05-30 00:42:28',
+				'updated_at' => '2015-05-30 07:17:44',
 			),
 			473 => 
 			array (
@@ -9492,7 +9492,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:41',
-				'updated_at' => '2015-05-30 00:42:33',
+				'updated_at' => '2015-05-30 07:17:44',
 			),
 			474 => 
 			array (
@@ -9512,7 +9512,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:41',
-				'updated_at' => '2015-05-30 00:42:38',
+				'updated_at' => '2015-05-30 07:17:44',
 			),
 			475 => 
 			array (
@@ -9532,7 +9532,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:41',
-				'updated_at' => '2015-05-30 00:42:43',
+				'updated_at' => '2015-05-30 07:17:44',
 			),
 			476 => 
 			array (
@@ -9552,7 +9552,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:41',
-				'updated_at' => '2015-05-30 00:42:48',
+				'updated_at' => '2015-05-30 07:17:44',
 			),
 			477 => 
 			array (
@@ -9572,7 +9572,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:41',
-				'updated_at' => '2015-05-30 00:42:53',
+				'updated_at' => '2015-05-30 07:17:44',
 			),
 			478 => 
 			array (
@@ -9592,7 +9592,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:41',
-				'updated_at' => '2015-05-30 00:42:58',
+				'updated_at' => '2015-05-30 07:17:44',
 			),
 			479 => 
 			array (
@@ -9612,7 +9612,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:41',
-				'updated_at' => '2015-05-30 00:43:03',
+				'updated_at' => '2015-05-30 07:17:44',
 			),
 			480 => 
 			array (
@@ -9632,7 +9632,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:41',
-				'updated_at' => '2015-05-30 00:43:08',
+				'updated_at' => '2015-05-30 07:17:44',
 			),
 			481 => 
 			array (
@@ -9652,7 +9652,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:41',
-				'updated_at' => '2015-05-30 00:43:13',
+				'updated_at' => '2015-05-30 07:17:44',
 			),
 			482 => 
 			array (
@@ -9672,7 +9672,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:41',
-				'updated_at' => '2015-05-30 00:43:18',
+				'updated_at' => '2015-05-30 07:17:44',
 			),
 			483 => 
 			array (
@@ -9692,7 +9692,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:41',
-				'updated_at' => '2015-05-30 00:43:23',
+				'updated_at' => '2015-05-30 07:17:44',
 			),
 			484 => 
 			array (
@@ -9712,7 +9712,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:41',
-				'updated_at' => '2015-05-30 00:43:28',
+				'updated_at' => '2015-05-30 07:17:44',
 			),
 			485 => 
 			array (
@@ -9732,7 +9732,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:41',
-				'updated_at' => '2015-05-30 00:43:33',
+				'updated_at' => '2015-05-30 07:17:44',
 			),
 			486 => 
 			array (
@@ -9752,7 +9752,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:41',
-				'updated_at' => '2015-05-30 00:43:38',
+				'updated_at' => '2015-05-30 07:17:44',
 			),
 			487 => 
 			array (
@@ -9772,7 +9772,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:43:44',
+				'updated_at' => '2015-05-30 07:17:53',
 			),
 			488 => 
 			array (
@@ -9792,7 +9792,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:43:49',
+				'updated_at' => '2015-05-30 07:17:53',
 			),
 			489 => 
 			array (
@@ -9812,7 +9812,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:43:54',
+				'updated_at' => '2015-05-30 07:17:53',
 			),
 			490 => 
 			array (
@@ -9832,7 +9832,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:43:59',
+				'updated_at' => '2015-05-30 07:17:53',
 			),
 			491 => 
 			array (
@@ -9852,7 +9852,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:44:04',
+				'updated_at' => '2015-05-30 07:17:53',
 			),
 			492 => 
 			array (
@@ -9872,7 +9872,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:44:09',
+				'updated_at' => '2015-05-30 07:17:53',
 			),
 			493 => 
 			array (
@@ -9892,7 +9892,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:44:14',
+				'updated_at' => '2015-05-30 07:17:53',
 			),
 			494 => 
 			array (
@@ -9912,7 +9912,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:44:19',
+				'updated_at' => '2015-05-30 07:17:53',
 			),
 			495 => 
 			array (
@@ -9932,7 +9932,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:44:24',
+				'updated_at' => '2015-05-30 07:17:53',
 			),
 			496 => 
 			array (
@@ -9952,7 +9952,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:44:29',
+				'updated_at' => '2015-05-30 07:17:53',
 			),
 			497 => 
 			array (
@@ -9972,7 +9972,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:44:34',
+				'updated_at' => '2015-05-30 07:17:53',
 			),
 			498 => 
 			array (
@@ -9992,7 +9992,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:44:39',
+				'updated_at' => '2015-05-30 07:17:53',
 			),
 			499 => 
 			array (
@@ -10012,7 +10012,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:44:44',
+				'updated_at' => '2015-05-30 07:17:53',
 			),
 		));
 		\DB::table('matches')->insert(array (
@@ -10034,7 +10034,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:44:49',
+				'updated_at' => '2015-05-30 07:17:53',
 			),
 			1 => 
 			array (
@@ -10054,7 +10054,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:44:54',
+				'updated_at' => '2015-05-30 07:17:53',
 			),
 			2 => 
 			array (
@@ -10074,7 +10074,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:44:59',
+				'updated_at' => '2015-05-30 07:17:53',
 			),
 			3 => 
 			array (
@@ -10094,7 +10094,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:45:04',
+				'updated_at' => '2015-05-30 07:17:53',
 			),
 			4 => 
 			array (
@@ -10114,7 +10114,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:45:09',
+				'updated_at' => '2015-05-30 07:17:53',
 			),
 			5 => 
 			array (
@@ -10134,7 +10134,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:45:14',
+				'updated_at' => '2015-05-30 07:17:53',
 			),
 			6 => 
 			array (
@@ -10154,7 +10154,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:45:19',
+				'updated_at' => '2015-05-30 07:17:53',
 			),
 			7 => 
 			array (
@@ -10174,7 +10174,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:45:24',
+				'updated_at' => '2015-05-30 07:17:53',
 			),
 			8 => 
 			array (
@@ -10194,7 +10194,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:45:29',
+				'updated_at' => '2015-05-30 07:17:53',
 			),
 			9 => 
 			array (
@@ -10214,7 +10214,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:45:34',
+				'updated_at' => '2015-05-30 07:17:53',
 			),
 			10 => 
 			array (
@@ -10234,7 +10234,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:45:39',
+				'updated_at' => '2015-05-30 07:17:53',
 			),
 			11 => 
 			array (
@@ -10254,7 +10254,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:45:44',
+				'updated_at' => '2015-05-30 07:17:53',
 			),
 			12 => 
 			array (
@@ -10274,7 +10274,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:45:50',
+				'updated_at' => '2015-05-30 07:17:53',
 			),
 			13 => 
 			array (
@@ -10294,7 +10294,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:45:55',
+				'updated_at' => '2015-05-30 07:17:53',
 			),
 			14 => 
 			array (
@@ -10314,7 +10314,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:46:00',
+				'updated_at' => '2015-05-30 07:17:53',
 			),
 			15 => 
 			array (
@@ -10334,7 +10334,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:46:05',
+				'updated_at' => '2015-05-30 07:17:53',
 			),
 			16 => 
 			array (
@@ -10354,7 +10354,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:46:10',
+				'updated_at' => '2015-05-30 07:17:53',
 			),
 			17 => 
 			array (
@@ -10374,7 +10374,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:46:15',
+				'updated_at' => '2015-05-30 07:17:53',
 			),
 			18 => 
 			array (
@@ -10394,7 +10394,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:46:20',
+				'updated_at' => '2015-05-30 07:17:53',
 			),
 			19 => 
 			array (
@@ -10414,7 +10414,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:46:25',
+				'updated_at' => '2015-05-30 07:17:53',
 			),
 			20 => 
 			array (
@@ -10434,7 +10434,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:46:30',
+				'updated_at' => '2015-05-30 07:17:53',
 			),
 			21 => 
 			array (
@@ -10454,7 +10454,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:46:35',
+				'updated_at' => '2015-05-30 07:17:53',
 			),
 			22 => 
 			array (
@@ -10474,7 +10474,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:46:40',
+				'updated_at' => '2015-05-30 07:17:53',
 			),
 			23 => 
 			array (
@@ -10494,7 +10494,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:46:45',
+				'updated_at' => '2015-05-30 07:17:53',
 			),
 			24 => 
 			array (
@@ -10514,7 +10514,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:46:50',
+				'updated_at' => '2015-05-30 07:17:53',
 			),
 			25 => 
 			array (
@@ -10534,7 +10534,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:46:55',
+				'updated_at' => '2015-05-30 07:17:53',
 			),
 			26 => 
 			array (
@@ -10554,7 +10554,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:47:00',
+				'updated_at' => '2015-05-30 07:17:53',
 			),
 			27 => 
 			array (
@@ -10574,7 +10574,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:47:05',
+				'updated_at' => '2015-05-30 07:17:53',
 			),
 			28 => 
 			array (
@@ -10594,7 +10594,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:47:10',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			29 => 
 			array (
@@ -10614,7 +10614,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:47:15',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			30 => 
 			array (
@@ -10634,7 +10634,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:47:20',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			31 => 
 			array (
@@ -10654,7 +10654,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:47:25',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			32 => 
 			array (
@@ -10674,7 +10674,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:47:30',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			33 => 
 			array (
@@ -10694,7 +10694,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:47:35',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			34 => 
 			array (
@@ -10714,7 +10714,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:47:40',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			35 => 
 			array (
@@ -10734,7 +10734,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:47:45',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			36 => 
 			array (
@@ -10754,7 +10754,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:47:50',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			37 => 
 			array (
@@ -10774,7 +10774,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:47:55',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			38 => 
 			array (
@@ -10794,7 +10794,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:48:00',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			39 => 
 			array (
@@ -10814,7 +10814,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:48:05',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			40 => 
 			array (
@@ -10834,7 +10834,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:48:10',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			41 => 
 			array (
@@ -10854,7 +10854,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:48:15',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			42 => 
 			array (
@@ -10874,7 +10874,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:48:20',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			43 => 
 			array (
@@ -10894,7 +10894,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:48:25',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			44 => 
 			array (
@@ -10914,7 +10914,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:48:30',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			45 => 
 			array (
@@ -10934,7 +10934,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:48:35',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			46 => 
 			array (
@@ -10954,7 +10954,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:48:40',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			47 => 
 			array (
@@ -10974,7 +10974,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:48:45',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			48 => 
 			array (
@@ -10994,7 +10994,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:48:50',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			49 => 
 			array (
@@ -11014,7 +11014,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:48:55',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			50 => 
 			array (
@@ -11034,7 +11034,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:49:00',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			51 => 
 			array (
@@ -11054,7 +11054,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:49:05',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			52 => 
 			array (
@@ -11074,7 +11074,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:49:10',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			53 => 
 			array (
@@ -11094,7 +11094,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:49:15',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			54 => 
 			array (
@@ -11114,7 +11114,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:49:20',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			55 => 
 			array (
@@ -11134,7 +11134,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:49:25',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			56 => 
 			array (
@@ -11154,7 +11154,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:49:30',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			57 => 
 			array (
@@ -11174,7 +11174,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:49:35',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			58 => 
 			array (
@@ -11194,7 +11194,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:49:40',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			59 => 
 			array (
@@ -11214,7 +11214,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:49:46',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			60 => 
 			array (
@@ -11234,7 +11234,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:49:51',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			61 => 
 			array (
@@ -11254,7 +11254,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:49:56',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			62 => 
 			array (
@@ -11274,7 +11274,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:50:01',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			63 => 
 			array (
@@ -11294,7 +11294,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:50:06',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			64 => 
 			array (
@@ -11314,7 +11314,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:50:11',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			65 => 
 			array (
@@ -11334,7 +11334,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:50:16',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			66 => 
 			array (
@@ -11354,7 +11354,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:50:21',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			67 => 
 			array (
@@ -11374,7 +11374,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:50:26',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			68 => 
 			array (
@@ -11394,7 +11394,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:50:31',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			69 => 
 			array (
@@ -11414,7 +11414,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:50:36',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			70 => 
 			array (
@@ -11434,7 +11434,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:50:41',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			71 => 
 			array (
@@ -11454,7 +11454,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:50:46',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			72 => 
 			array (
@@ -11474,7 +11474,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:50:51',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			73 => 
 			array (
@@ -11494,7 +11494,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:50:56',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			74 => 
 			array (
@@ -11514,7 +11514,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:51:01',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			75 => 
 			array (
@@ -11534,7 +11534,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:51:06',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			76 => 
 			array (
@@ -11554,7 +11554,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:51:11',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			77 => 
 			array (
@@ -11574,7 +11574,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:51:16',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			78 => 
 			array (
@@ -11594,7 +11594,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:51:21',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			79 => 
 			array (
@@ -11614,7 +11614,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:51:26',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			80 => 
 			array (
@@ -11634,7 +11634,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:51:31',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			81 => 
 			array (
@@ -11654,7 +11654,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:51:36',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			82 => 
 			array (
@@ -11674,7 +11674,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:51:41',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			83 => 
 			array (
@@ -11694,7 +11694,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:51:46',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			84 => 
 			array (
@@ -11714,7 +11714,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:51:51',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			85 => 
 			array (
@@ -11734,7 +11734,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:42',
-				'updated_at' => '2015-05-30 00:51:56',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			86 => 
 			array (
@@ -11754,7 +11754,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:43',
-				'updated_at' => '2015-05-30 00:52:01',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			87 => 
 			array (
@@ -11774,7 +11774,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:43',
-				'updated_at' => '2015-05-30 00:52:06',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			88 => 
 			array (
@@ -11794,7 +11794,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:43',
-				'updated_at' => '2015-05-30 00:52:11',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			89 => 
 			array (
@@ -11814,7 +11814,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:43',
-				'updated_at' => '2015-05-30 00:52:16',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			90 => 
 			array (
@@ -11834,7 +11834,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:43',
-				'updated_at' => '2015-05-30 00:52:21',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			91 => 
 			array (
@@ -11854,7 +11854,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:43',
-				'updated_at' => '2015-05-30 00:52:26',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			92 => 
 			array (
@@ -11874,7 +11874,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:43',
-				'updated_at' => '2015-05-30 00:52:31',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			93 => 
 			array (
@@ -11894,7 +11894,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:43',
-				'updated_at' => '2015-05-30 00:52:36',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			94 => 
 			array (
@@ -11914,7 +11914,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:43',
-				'updated_at' => '2015-05-30 00:52:41',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			95 => 
 			array (
@@ -11934,7 +11934,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:43',
-				'updated_at' => '2015-05-30 00:52:46',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			96 => 
 			array (
@@ -11954,7 +11954,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:43',
-				'updated_at' => '2015-05-30 00:52:51',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			97 => 
 			array (
@@ -11974,7 +11974,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:43',
-				'updated_at' => '2015-05-30 00:52:56',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			98 => 
 			array (
@@ -11994,7 +11994,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:43',
-				'updated_at' => '2015-05-30 00:53:01',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			99 => 
 			array (
@@ -12014,7 +12014,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:43',
-				'updated_at' => '2015-05-30 00:53:06',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			100 => 
 			array (
@@ -12034,7 +12034,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:43',
-				'updated_at' => '2015-05-30 00:53:11',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			101 => 
 			array (
@@ -12054,7 +12054,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:43',
-				'updated_at' => '2015-05-30 00:53:16',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			102 => 
 			array (
@@ -12074,7 +12074,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:43',
-				'updated_at' => '2015-05-30 00:53:21',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			103 => 
 			array (
@@ -12094,7 +12094,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:43',
-				'updated_at' => '2015-05-30 00:53:26',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			104 => 
 			array (
@@ -12114,7 +12114,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:43',
-				'updated_at' => '2015-05-30 00:53:31',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			105 => 
 			array (
@@ -12134,7 +12134,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:43',
-				'updated_at' => '2015-05-30 00:53:36',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			106 => 
 			array (
@@ -12154,7 +12154,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:43',
-				'updated_at' => '2015-05-30 00:53:41',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			107 => 
 			array (
@@ -12174,7 +12174,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:43',
-				'updated_at' => '2015-05-30 00:53:46',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			108 => 
 			array (
@@ -12194,7 +12194,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:43',
-				'updated_at' => '2015-05-30 00:53:51',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			109 => 
 			array (
@@ -12214,7 +12214,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:43',
-				'updated_at' => '2015-05-30 00:53:56',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			110 => 
 			array (
@@ -12234,7 +12234,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:43',
-				'updated_at' => '2015-05-30 00:54:01',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			111 => 
 			array (
@@ -12254,7 +12254,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:43',
-				'updated_at' => '2015-05-30 00:54:06',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			112 => 
 			array (
@@ -12274,7 +12274,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:43',
-				'updated_at' => '2015-05-30 00:54:11',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			113 => 
 			array (
@@ -12294,7 +12294,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:43',
-				'updated_at' => '2015-05-30 00:54:16',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			114 => 
 			array (
@@ -12314,7 +12314,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:43',
-				'updated_at' => '2015-05-30 00:54:21',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			115 => 
 			array (
@@ -12334,7 +12334,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:43',
-				'updated_at' => '2015-05-30 00:54:26',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			116 => 
 			array (
@@ -12354,7 +12354,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:43',
-				'updated_at' => '2015-05-30 00:54:31',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			117 => 
 			array (
@@ -12374,7 +12374,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:43',
-				'updated_at' => '2015-05-30 00:54:36',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			118 => 
 			array (
@@ -12394,7 +12394,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:43',
-				'updated_at' => '2015-05-30 00:54:41',
+				'updated_at' => '2015-05-30 07:17:54',
 			),
 			119 => 
 			array (
@@ -12414,7 +12414,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:43',
-				'updated_at' => '2015-05-30 00:54:47',
+				'updated_at' => '2015-05-30 07:18:00',
 			),
 			120 => 
 			array (
@@ -12434,7 +12434,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:43',
-				'updated_at' => '2015-05-30 00:54:52',
+				'updated_at' => '2015-05-30 07:18:00',
 			),
 			121 => 
 			array (
@@ -12454,7 +12454,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:43',
-				'updated_at' => '2015-05-30 00:54:57',
+				'updated_at' => '2015-05-30 07:18:00',
 			),
 			122 => 
 			array (
@@ -12474,7 +12474,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:43',
-				'updated_at' => '2015-05-30 00:55:02',
+				'updated_at' => '2015-05-30 07:18:00',
 			),
 			123 => 
 			array (
@@ -12494,7 +12494,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:43',
-				'updated_at' => '2015-05-30 00:55:07',
+				'updated_at' => '2015-05-30 07:18:00',
 			),
 			124 => 
 			array (
@@ -12514,7 +12514,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:01:43',
-				'updated_at' => '2015-05-30 00:55:12',
+				'updated_at' => '2015-05-30 07:18:00',
 			),
 			125 => 
 			array (
@@ -12534,7 +12534,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:43',
-				'updated_at' => '2015-05-30 00:55:17',
+				'updated_at' => '2015-05-30 07:18:00',
 			),
 			126 => 
 			array (
@@ -12554,7 +12554,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:43',
-				'updated_at' => '2015-05-30 00:55:22',
+				'updated_at' => '2015-05-30 07:18:00',
 			),
 			127 => 
 			array (
@@ -12574,7 +12574,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:01:43',
-				'updated_at' => '2015-05-30 00:55:27',
+				'updated_at' => '2015-05-30 07:18:00',
 			),
 			128 => 
 			array (
@@ -12594,7 +12594,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:10:04',
-				'updated_at' => '2015-05-30 00:10:04',
+				'updated_at' => '2015-05-30 07:18:00',
 			),
 			129 => 
 			array (
@@ -12614,7 +12614,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:10:04',
-				'updated_at' => '2015-05-30 00:10:04',
+				'updated_at' => '2015-05-30 07:18:00',
 			),
 			130 => 
 			array (
@@ -12634,7 +12634,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:10:04',
-				'updated_at' => '2015-05-30 00:10:04',
+				'updated_at' => '2015-05-30 07:18:00',
 			),
 			131 => 
 			array (
@@ -12654,7 +12654,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:10:11',
-				'updated_at' => '2015-05-30 00:10:11',
+				'updated_at' => '2015-05-30 07:18:06',
 			),
 			132 => 
 			array (
@@ -12674,7 +12674,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:10:11',
-				'updated_at' => '2015-05-30 00:10:11',
+				'updated_at' => '2015-05-30 07:18:06',
 			),
 			133 => 
 			array (
@@ -12694,7 +12694,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:10:11',
-				'updated_at' => '2015-05-30 00:10:11',
+				'updated_at' => '2015-05-30 07:18:06',
 			),
 			134 => 
 			array (
@@ -12714,7 +12714,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:10:11',
-				'updated_at' => '2015-05-30 00:10:11',
+				'updated_at' => '2015-05-30 07:18:06',
 			),
 			135 => 
 			array (
@@ -12734,7 +12734,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:10:11',
-				'updated_at' => '2015-05-30 00:10:11',
+				'updated_at' => '2015-05-30 07:18:06',
 			),
 			136 => 
 			array (
@@ -12754,7 +12754,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:10:11',
-				'updated_at' => '2015-05-30 00:10:11',
+				'updated_at' => '2015-05-30 07:18:06',
 			),
 			137 => 
 			array (
@@ -12774,7 +12774,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:10:11',
-				'updated_at' => '2015-05-30 00:10:11',
+				'updated_at' => '2015-05-30 07:18:06',
 			),
 			138 => 
 			array (
@@ -12794,7 +12794,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 1,
 				'created_at' => '2015-05-30 00:10:11',
-				'updated_at' => '2015-05-30 00:10:11',
+				'updated_at' => '2015-05-30 07:18:06',
 			),
 			139 => 
 			array (
@@ -12814,7 +12814,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:10:11',
-				'updated_at' => '2015-05-30 00:10:11',
+				'updated_at' => '2015-05-30 07:18:06',
 			),
 			140 => 
 			array (
@@ -12834,7 +12834,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:10:11',
-				'updated_at' => '2015-05-30 00:10:11',
+				'updated_at' => '2015-05-30 07:18:06',
 			),
 			141 => 
 			array (
@@ -12854,7 +12854,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:10:11',
-				'updated_at' => '2015-05-30 00:10:11',
+				'updated_at' => '2015-05-30 07:18:06',
 			),
 			142 => 
 			array (
@@ -12874,7 +12874,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:10:11',
-				'updated_at' => '2015-05-30 00:10:11',
+				'updated_at' => '2015-05-30 07:18:06',
 			),
 			143 => 
 			array (
@@ -12894,7 +12894,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:10:11',
-				'updated_at' => '2015-05-30 00:10:11',
+				'updated_at' => '2015-05-30 07:18:06',
 			),
 			144 => 
 			array (
@@ -12914,7 +12914,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:10:11',
-				'updated_at' => '2015-05-30 00:10:11',
+				'updated_at' => '2015-05-30 07:18:06',
 			),
 			145 => 
 			array (
@@ -12934,7 +12934,7 @@ class MatchesTableSeeder extends Seeder {
 				'is_live' => 0,
 				'is_finished' => 0,
 				'created_at' => '2015-05-30 00:10:11',
-				'updated_at' => '2015-05-30 00:10:11',
+				'updated_at' => '2015-05-30 07:18:06',
 			),
 		));
 	}

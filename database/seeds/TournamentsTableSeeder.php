@@ -17,7 +17,7 @@ class TournamentsTableSeeder extends Seeder {
 			0 => 
 			array (
 				'id' => 7,
-				'league_id' => 0,
+				'league_id' => 1,
 				'name' => 'NA Season 3 Spring Split',
 				'season' => 'Season 3',
 				'dateBegin' => '2013-02-07',
@@ -26,12 +26,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:55',
-				'updated_at' => '2015-05-29 23:01:01',
+				'updated_at' => '2015-05-29 23:53:27',
 			),
 			1 => 
 			array (
 				'id' => 9,
-				'league_id' => 0,
+				'league_id' => 2,
 				'name' => 'EU Season 3 Spring Split',
 				'season' => 'Season 3',
 				'dateBegin' => '2013-02-09',
@@ -40,12 +40,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:55',
-				'updated_at' => '2015-05-29 23:01:11',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			2 => 
 			array (
 				'id' => 10,
-				'league_id' => 0,
+				'league_id' => 2,
 				'name' => 'EU Spring Playoffs',
 				'season' => 'Season 3',
 				'dateBegin' => '2013-04-26',
@@ -54,12 +54,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:55',
-				'updated_at' => '2015-05-29 23:01:21',
+				'updated_at' => '2015-05-29 23:53:37',
 			),
 			3 => 
 			array (
 				'id' => 11,
-				'league_id' => 0,
+				'league_id' => 1,
 				'name' => 'NA Spring Playoffs',
 				'season' => 'Season 3',
 				'dateBegin' => '2013-04-27',
@@ -68,12 +68,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:55',
-				'updated_at' => '2015-05-29 23:01:31',
+				'updated_at' => '2015-05-29 23:53:48',
 			),
 			4 => 
 			array (
 				'id' => 12,
-				'league_id' => 0,
+				'league_id' => 2,
 				'name' => 'EU Summer Promotion',
 				'season' => 'Season 3',
 				'dateBegin' => '2013-05-05',
@@ -82,12 +82,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 0,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:55',
-				'updated_at' => '2015-05-29 23:01:41',
+				'updated_at' => '2015-05-29 23:53:59',
 			),
 			5 => 
 			array (
 				'id' => 13,
-				'league_id' => 0,
+				'league_id' => 1,
 				'name' => 'NA Summer Promotion',
 				'season' => 'Season 3',
 				'dateBegin' => '2013-05-11',
@@ -96,12 +96,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 0,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:55',
-				'updated_at' => '2015-05-29 23:01:51',
+				'updated_at' => '2015-05-29 23:54:09',
 			),
 			6 => 
 			array (
 				'id' => 19,
-				'league_id' => 0,
+				'league_id' => 1,
 				'name' => 'NA Season 3 Summer Split',
 				'season' => 'Season 3',
 				'dateBegin' => '2013-06-12',
@@ -110,12 +110,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:55',
-				'updated_at' => '2015-05-29 23:02:02',
+				'updated_at' => '2015-05-29 23:54:20',
 			),
 			7 => 
 			array (
 				'id' => 21,
-				'league_id' => 0,
+				'league_id' => 2,
 				'name' => 'EU Season 3 Summer Split',
 				'season' => 'Season 3',
 				'dateBegin' => '2013-06-15',
@@ -124,12 +124,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:55',
-				'updated_at' => '2015-05-29 23:02:12',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			8 => 
 			array (
 				'id' => 22,
-				'league_id' => 0,
+				'league_id' => 2,
 				'name' => 'EU Regionals 2013',
 				'season' => 'Season 3',
 				'dateBegin' => '2013-08-23',
@@ -138,12 +138,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:55',
-				'updated_at' => '2015-05-29 23:02:22',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			9 => 
 			array (
 				'id' => 23,
-				'league_id' => 0,
+				'league_id' => 1,
 				'name' => 'NA Regionals 2013',
 				'season' => 'Season 3',
 				'dateBegin' => '2013-08-30',
@@ -152,12 +152,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:55',
-				'updated_at' => '2015-05-29 23:02:32',
+				'updated_at' => '2015-05-29 23:53:27',
 			),
 			10 => 
 			array (
 				'id' => 24,
-				'league_id' => 0,
+				'league_id' => 4,
 				'name' => 'Group A',
 				'season' => 'Season 3',
 				'dateBegin' => '2013-09-15',
@@ -166,12 +166,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:02:42',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			11 => 
 			array (
 				'id' => 25,
-				'league_id' => 0,
+				'league_id' => 4,
 				'name' => 'Group B',
 				'season' => 'Season 3',
 				'dateBegin' => '2013-09-16',
@@ -180,12 +180,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:02:52',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			12 => 
 			array (
 				'id' => 26,
-				'league_id' => 0,
+				'league_id' => 4,
 				'name' => 'World Playoffs',
 				'season' => 'Season 3',
 				'dateBegin' => '2013-09-25',
@@ -194,12 +194,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:03:02',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			13 => 
 			array (
 				'id' => 28,
-				'league_id' => 0,
+				'league_id' => 1,
 				'name' => 'NA LCS Spring Promotion',
 				'season' => '2014',
 				'dateBegin' => '2013-12-20',
@@ -208,12 +208,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:55',
-				'updated_at' => '2015-05-29 23:03:12',
+				'updated_at' => '2015-05-29 23:53:27',
 			),
 			14 => 
 			array (
 				'id' => 29,
-				'league_id' => 0,
+				'league_id' => 2,
 				'name' => 'EU LCS Spring Promotion',
 				'season' => '2014',
 				'dateBegin' => '2013-12-13',
@@ -222,12 +222,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:55',
-				'updated_at' => '2015-05-29 23:03:22',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			15 => 
 			array (
 				'id' => 31,
-				'league_id' => 0,
+				'league_id' => 6,
 				'name' => 'NA Play in 1',
 				'season' => '2014',
 				'dateBegin' => '2014-01-19',
@@ -236,12 +236,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 0,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:03:32',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			16 => 
 			array (
 				'id' => 32,
-				'league_id' => 0,
+				'league_id' => 6,
 				'name' => 'NA Play in 2',
 				'season' => '2014',
 				'dateBegin' => '1970-01-01',
@@ -250,12 +250,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 0,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:03:42',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			17 => 
 			array (
 				'id' => 33,
-				'league_id' => 0,
+				'league_id' => 1,
 				'name' => 'NA LCS Spring Split',
 				'season' => '2014',
 				'dateBegin' => '2014-01-17',
@@ -264,12 +264,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:55',
-				'updated_at' => '2015-05-29 23:03:53',
+				'updated_at' => '2015-05-29 23:53:27',
 			),
 			18 => 
 			array (
 				'id' => 34,
-				'league_id' => 0,
+				'league_id' => 6,
 				'name' => 'NA Play in 3',
 				'season' => '2014',
 				'dateBegin' => '1970-01-01',
@@ -278,12 +278,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 0,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:04:03',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			19 => 
 			array (
 				'id' => 35,
-				'league_id' => 0,
+				'league_id' => 6,
 				'name' => 'NA Play in 4',
 				'season' => '2014',
 				'dateBegin' => '2014-01-20',
@@ -292,12 +292,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 0,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:04:13',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			20 => 
 			array (
 				'id' => 36,
-				'league_id' => 0,
+				'league_id' => 6,
 				'name' => 'NA Play in 5',
 				'season' => '2014',
 				'dateBegin' => '1970-01-01',
@@ -306,12 +306,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 0,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:04:23',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			21 => 
 			array (
 				'id' => 38,
-				'league_id' => 0,
+				'league_id' => 7,
 				'name' => 'EU Play in 1',
 				'season' => '2014',
 				'dateBegin' => '2014-01-15',
@@ -320,12 +320,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:04:33',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			22 => 
 			array (
 				'id' => 39,
-				'league_id' => 0,
+				'league_id' => 2,
 				'name' => 'EU LCS Spring Split',
 				'season' => '2014',
 				'dateBegin' => '2014-01-14',
@@ -334,12 +334,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:55',
-				'updated_at' => '2015-05-29 23:04:43',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			23 => 
 			array (
 				'id' => 40,
-				'league_id' => 0,
+				'league_id' => 7,
 				'name' => 'EU Play in 2',
 				'season' => '2014',
 				'dateBegin' => '1970-01-01',
@@ -348,12 +348,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:04:53',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			24 => 
 			array (
 				'id' => 41,
-				'league_id' => 0,
+				'league_id' => 7,
 				'name' => 'EU Play in 3',
 				'season' => '2014',
 				'dateBegin' => '1970-01-01',
@@ -362,12 +362,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:05:03',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			25 => 
 			array (
 				'id' => 42,
-				'league_id' => 0,
+				'league_id' => 7,
 				'name' => 'EU Play in 4',
 				'season' => '2014',
 				'dateBegin' => '2014-01-16',
@@ -376,12 +376,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:05:13',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			26 => 
 			array (
 				'id' => 43,
-				'league_id' => 0,
+				'league_id' => 7,
 				'name' => 'EU Play in 5',
 				'season' => '2014',
 				'dateBegin' => '1970-01-01',
@@ -390,12 +390,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:05:23',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			27 => 
 			array (
 				'id' => 48,
-				'league_id' => 0,
+				'league_id' => 7,
 				'name' => 'EU Play in 6',
 				'season' => '2014',
 				'dateBegin' => '1970-01-01',
@@ -404,12 +404,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:05:33',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			28 => 
 			array (
 				'id' => 49,
-				'league_id' => 0,
+				'league_id' => 6,
 				'name' => 'NA Top 8',
 				'season' => '2014',
 				'dateBegin' => '2014-01-26',
@@ -418,12 +418,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:05:44',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			29 => 
 			array (
 				'id' => 50,
-				'league_id' => 0,
+				'league_id' => 7,
 				'name' => 'EU Top 8',
 				'season' => '2014',
 				'dateBegin' => '2014-01-23',
@@ -432,12 +432,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:05:54',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			30 => 
 			array (
 				'id' => 56,
-				'league_id' => 0,
+				'league_id' => 6,
 				'name' => 'NA CS 2 Play In 1',
 				'season' => '2014',
 				'dateBegin' => '2014-03-03',
@@ -446,12 +446,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:06:04',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			31 => 
 			array (
 				'id' => 57,
-				'league_id' => 0,
+				'league_id' => 6,
 				'name' => 'NA CS 2 Play In 2',
 				'season' => '2014',
 				'dateBegin' => '2014-03-03',
@@ -460,12 +460,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:06:14',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			32 => 
 			array (
 				'id' => 58,
-				'league_id' => 0,
+				'league_id' => 6,
 				'name' => 'NA CS 2 Play In 3',
 				'season' => '2014',
 				'dateBegin' => '1970-01-01',
@@ -474,12 +474,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:06:24',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			33 => 
 			array (
 				'id' => 59,
-				'league_id' => 0,
+				'league_id' => 6,
 				'name' => 'NA CS 2 Play In 4',
 				'season' => '2014',
 				'dateBegin' => '2014-03-02',
@@ -488,12 +488,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:06:34',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			34 => 
 			array (
 				'id' => 60,
-				'league_id' => 0,
+				'league_id' => 6,
 				'name' => 'NA CS 2 Play In 5',
 				'season' => '2014',
 				'dateBegin' => '2014-03-02',
@@ -502,12 +502,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:06:44',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			35 => 
 			array (
 				'id' => 62,
-				'league_id' => 0,
+				'league_id' => 7,
 				'name' => 'EU CS 2 Play In 1',
 				'season' => '2014',
 				'dateBegin' => '2014-02-28',
@@ -516,12 +516,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:06:54',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			36 => 
 			array (
 				'id' => 63,
-				'league_id' => 0,
+				'league_id' => 7,
 				'name' => 'EU CS 2 Play In 2',
 				'season' => '2014',
 				'dateBegin' => '2014-02-27',
@@ -530,12 +530,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:07:04',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			37 => 
 			array (
 				'id' => 64,
-				'league_id' => 0,
+				'league_id' => 7,
 				'name' => 'EU CS 2 Play In 3',
 				'season' => '2014',
 				'dateBegin' => '2014-02-27',
@@ -544,12 +544,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:07:14',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			38 => 
 			array (
 				'id' => 65,
-				'league_id' => 0,
+				'league_id' => 7,
 				'name' => 'EU CS 2 Play In 4',
 				'season' => '2014',
 				'dateBegin' => '2014-02-28',
@@ -558,12 +558,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:07:25',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			39 => 
 			array (
 				'id' => 66,
-				'league_id' => 0,
+				'league_id' => 7,
 				'name' => 'EU CS 2 Play In 5',
 				'season' => '2014',
 				'dateBegin' => '2014-03-01',
@@ -572,12 +572,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:07:35',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			40 => 
 			array (
 				'id' => 67,
-				'league_id' => 0,
+				'league_id' => 7,
 				'name' => 'EU CS 2 Top 8',
 				'season' => '2014',
 				'dateBegin' => '2014-03-05',
@@ -586,12 +586,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 0,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:07:45',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			41 => 
 			array (
 				'id' => 68,
-				'league_id' => 0,
+				'league_id' => 6,
 				'name' => 'NA CS 2 Top 8',
 				'season' => '2014',
 				'dateBegin' => '2014-03-09',
@@ -600,12 +600,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:07:55',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			42 => 
 			array (
 				'id' => 72,
-				'league_id' => 0,
+				'league_id' => 9,
 				'name' => 'LPL Round Robin',
 				'season' => '2014',
 				'dateBegin' => '2014-02-22',
@@ -614,12 +614,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:08:05',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			43 => 
 			array (
 				'id' => 73,
-				'league_id' => 0,
+				'league_id' => 2,
 				'name' => 'EU LCS Spring Playoffs',
 				'season' => '2014',
 				'dateBegin' => '2014-04-15',
@@ -628,12 +628,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:55',
-				'updated_at' => '2015-05-29 23:08:16',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			44 => 
 			array (
 				'id' => 75,
-				'league_id' => 0,
+				'league_id' => 7,
 				'name' => 'EU LCS Spring Playoffs ',
 				'season' => '2014',
 				'dateBegin' => '2014-04-01',
@@ -642,12 +642,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:08:26',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			45 => 
 			array (
 				'id' => 76,
-				'league_id' => 0,
+				'league_id' => 6,
 				'name' => 'NA CS Spring Playoffs 2014',
 				'season' => '2014',
 				'dateBegin' => '2014-04-05',
@@ -656,12 +656,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:08:36',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			46 => 
 			array (
 				'id' => 77,
-				'league_id' => 0,
+				'league_id' => 1,
 				'name' => 'NA LCS Spring Playoffs',
 				'season' => '2014',
 				'dateBegin' => '2014-04-18',
@@ -670,12 +670,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:55',
-				'updated_at' => '2015-05-29 23:08:46',
+				'updated_at' => '2015-05-29 23:53:27',
 			),
 			47 => 
 			array (
 				'id' => 79,
-				'league_id' => 0,
+				'league_id' => 8,
 				'name' => 'OGN Group A',
 				'season' => '2014',
 				'dateBegin' => '2014-03-12',
@@ -684,12 +684,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:08:56',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			48 => 
 			array (
 				'id' => 80,
-				'league_id' => 0,
+				'league_id' => 8,
 				'name' => 'OGN Group B',
 				'season' => '2014',
 				'dateBegin' => '2014-03-12',
@@ -698,12 +698,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:09:06',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			49 => 
 			array (
 				'id' => 81,
-				'league_id' => 0,
+				'league_id' => 8,
 				'name' => 'OGN Group C',
 				'season' => '2014',
 				'dateBegin' => '2014-03-14',
@@ -712,12 +712,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:09:17',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			50 => 
 			array (
 				'id' => 82,
-				'league_id' => 0,
+				'league_id' => 8,
 				'name' => 'OGN Group D',
 				'season' => '2014',
 				'dateBegin' => '2014-03-14',
@@ -726,12 +726,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:09:27',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			51 => 
 			array (
 				'id' => 83,
-				'league_id' => 0,
+				'league_id' => 8,
 				'name' => 'OGN Top 8',
 				'season' => '2014',
 				'dateBegin' => '2014-04-16',
@@ -740,12 +740,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:09:38',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			52 => 
 			array (
 				'id' => 92,
-				'league_id' => 0,
+				'league_id' => 2,
 				'name' => 'EU LCS Summer Promotion',
 				'season' => '2014',
 				'dateBegin' => '2014-04-24',
@@ -754,12 +754,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:55',
-				'updated_at' => '2015-05-29 23:09:49',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			53 => 
 			array (
 				'id' => 95,
-				'league_id' => 0,
+				'league_id' => 1,
 				'name' => 'NA LCS Summer Promotion',
 				'season' => '2014',
 				'dateBegin' => '2014-04-26',
@@ -768,12 +768,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:55',
-				'updated_at' => '2015-05-29 23:09:59',
+				'updated_at' => '2015-05-29 23:53:27',
 			),
 			54 => 
 			array (
 				'id' => 100,
-				'league_id' => 0,
+				'league_id' => 3,
 				'name' => 'All-Star 2014 Group Stage',
 				'season' => '2014',
 				'dateBegin' => '2014-05-08',
@@ -782,12 +782,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:10:10',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			55 => 
 			array (
 				'id' => 101,
-				'league_id' => 0,
+				'league_id' => 3,
 				'name' => 'All-Star 2014 Playoffs',
 				'season' => '2014',
 				'dateBegin' => '2014-05-10',
@@ -796,12 +796,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:10:21',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			56 => 
 			array (
 				'id' => 102,
-				'league_id' => 0,
+				'league_id' => 2,
 				'name' => 'EU LCS Summer Split',
 				'season' => '2014',
 				'dateBegin' => '2014-05-20',
@@ -810,12 +810,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:10:32',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			57 => 
 			array (
 				'id' => 104,
-				'league_id' => 0,
+				'league_id' => 1,
 				'name' => 'NA LCS Summer Split',
 				'season' => '2014',
 				'dateBegin' => '2014-05-23',
@@ -824,12 +824,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:55',
-				'updated_at' => '2015-05-29 23:10:42',
+				'updated_at' => '2015-05-29 23:53:27',
 			),
 			58 => 
 			array (
 				'id' => 105,
-				'league_id' => 0,
+				'league_id' => 6,
 				'name' => 'NA CS Play In 1',
 				'season' => '2014',
 				'dateBegin' => '2014-05-18',
@@ -838,12 +838,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:10:53',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			59 => 
 			array (
 				'id' => 106,
-				'league_id' => 0,
+				'league_id' => 6,
 				'name' => 'NA CS Play In 2',
 				'season' => '2014',
 				'dateBegin' => '1970-01-01',
@@ -852,12 +852,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:11:04',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			60 => 
 			array (
 				'id' => 107,
-				'league_id' => 0,
+				'league_id' => 6,
 				'name' => 'NA CS Play In 3',
 				'season' => '2014',
 				'dateBegin' => '1970-01-01',
@@ -866,12 +866,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:11:14',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			61 => 
 			array (
 				'id' => 108,
-				'league_id' => 0,
+				'league_id' => 6,
 				'name' => 'NA CS Play In 4',
 				'season' => '2014',
 				'dateBegin' => '1970-01-01',
@@ -880,12 +880,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:11:25',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			62 => 
 			array (
 				'id' => 109,
-				'league_id' => 0,
+				'league_id' => 6,
 				'name' => 'NA CS Play In 5',
 				'season' => '2014',
 				'dateBegin' => '1970-01-01',
@@ -894,12 +894,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:11:36',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			63 => 
 			array (
 				'id' => 110,
-				'league_id' => 0,
+				'league_id' => 7,
 				'name' => 'EU CS Play In 1',
 				'season' => '2014',
 				'dateBegin' => '2014-05-16',
@@ -908,12 +908,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:11:46',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			64 => 
 			array (
 				'id' => 111,
-				'league_id' => 0,
+				'league_id' => 7,
 				'name' => 'EU CS Play In 2',
 				'season' => '2014',
 				'dateBegin' => '1970-01-01',
@@ -922,12 +922,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:11:57',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			65 => 
 			array (
 				'id' => 112,
-				'league_id' => 0,
+				'league_id' => 7,
 				'name' => 'EU CS Play In 3',
 				'season' => '2014',
 				'dateBegin' => '1970-01-01',
@@ -936,12 +936,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:12:07',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			66 => 
 			array (
 				'id' => 113,
-				'league_id' => 0,
+				'league_id' => 7,
 				'name' => 'EU CS Play In 4',
 				'season' => '2014',
 				'dateBegin' => '1970-01-01',
@@ -950,12 +950,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:12:18',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			67 => 
 			array (
 				'id' => 114,
-				'league_id' => 0,
+				'league_id' => 7,
 				'name' => 'EU CS Play In 5',
 				'season' => '2014',
 				'dateBegin' => '1970-01-01',
@@ -964,12 +964,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:12:29',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			68 => 
 			array (
 				'id' => 115,
-				'league_id' => 0,
+				'league_id' => 6,
 				'name' => 'NA Top 8',
 				'season' => '2014',
 				'dateBegin' => '2014-05-31',
@@ -978,12 +978,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 0,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:12:39',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			69 => 
 			array (
 				'id' => 116,
-				'league_id' => 0,
+				'league_id' => 7,
 				'name' => 'EU Top 8',
 				'season' => '2014',
 				'dateBegin' => '2014-05-29',
@@ -992,12 +992,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:12:50',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			70 => 
 			array (
 				'id' => 117,
-				'league_id' => 0,
+				'league_id' => 9,
 				'name' => 'LPL Top 4',
 				'season' => '2014',
 				'dateBegin' => '2014-05-24',
@@ -1006,12 +1006,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:13:01',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			71 => 
 			array (
 				'id' => 118,
-				'league_id' => 0,
+				'league_id' => 7,
 				'name' => 'EU CS Summer Playoffs',
 				'season' => '2014',
 				'dateBegin' => '2014-08-05',
@@ -1020,12 +1020,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:13:12',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			72 => 
 			array (
 				'id' => 119,
-				'league_id' => 0,
+				'league_id' => 6,
 				'name' => 'NA CS Summer Playoffs',
 				'season' => '2014',
 				'dateBegin' => '2014-08-21',
@@ -1034,12 +1034,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:13:22',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			73 => 
 			array (
 				'id' => 124,
-				'league_id' => 0,
+				'league_id' => 1,
 				'name' => 'NA LCS Spring Promotion',
 				'season' => '2015',
 				'dateBegin' => '2014-09-09',
@@ -1048,12 +1048,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:55',
-				'updated_at' => '2015-05-29 23:13:33',
+				'updated_at' => '2015-05-29 23:53:27',
 			),
 			74 => 
 			array (
 				'id' => 133,
-				'league_id' => 0,
+				'league_id' => 9,
 				'name' => 'LPL Round Robin',
 				'season' => '2014',
 				'dateBegin' => '2014-06-14',
@@ -1062,12 +1062,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:13:44',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			75 => 
 			array (
 				'id' => 138,
-				'league_id' => 0,
+				'league_id' => 8,
 				'name' => 'OGN Group A',
 				'season' => '2014',
 				'dateBegin' => '2014-06-18',
@@ -1076,12 +1076,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:13:55',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			76 => 
 			array (
 				'id' => 139,
-				'league_id' => 0,
+				'league_id' => 8,
 				'name' => 'OGN Group B',
 				'season' => '2014',
 				'dateBegin' => '2014-06-18',
@@ -1090,12 +1090,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:14:06',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			77 => 
 			array (
 				'id' => 140,
-				'league_id' => 0,
+				'league_id' => 8,
 				'name' => 'OGN Group D',
 				'season' => '2014',
 				'dateBegin' => '2014-06-20',
@@ -1104,12 +1104,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:14:17',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			78 => 
 			array (
 				'id' => 142,
-				'league_id' => 0,
+				'league_id' => 8,
 				'name' => 'OGN Top 8',
 				'season' => '2014',
 				'dateBegin' => '2014-07-16',
@@ -1118,12 +1118,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:14:27',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			79 => 
 			array (
 				'id' => 143,
-				'league_id' => 0,
+				'league_id' => 8,
 				'name' => 'OGN Group C',
 				'season' => '2014',
 				'dateBegin' => '2014-06-20',
@@ -1132,12 +1132,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:14:38',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			80 => 
 			array (
 				'id' => 144,
-				'league_id' => 0,
+				'league_id' => 7,
 				'name' => 'EU CS Play In 1',
 				'season' => '2014',
 				'dateBegin' => '2014-06-27',
@@ -1146,12 +1146,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:14:49',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			81 => 
 			array (
 				'id' => 145,
-				'league_id' => 0,
+				'league_id' => 7,
 				'name' => 'EU CS Play In 2',
 				'season' => '2014',
 				'dateBegin' => '2014-06-27',
@@ -1160,12 +1160,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:15:00',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			82 => 
 			array (
 				'id' => 146,
-				'league_id' => 0,
+				'league_id' => 7,
 				'name' => 'EU CS Play In 3',
 				'season' => '2014',
 				'dateBegin' => '2014-06-27',
@@ -1174,12 +1174,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:15:10',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			83 => 
 			array (
 				'id' => 147,
-				'league_id' => 0,
+				'league_id' => 7,
 				'name' => 'EU CS Play In 4',
 				'season' => '2014',
 				'dateBegin' => '2014-06-25',
@@ -1188,12 +1188,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:15:21',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			84 => 
 			array (
 				'id' => 148,
-				'league_id' => 0,
+				'league_id' => 7,
 				'name' => 'EU CS Play In 5',
 				'season' => '2014',
 				'dateBegin' => '2014-06-25',
@@ -1202,12 +1202,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:15:31',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			85 => 
 			array (
 				'id' => 149,
-				'league_id' => 0,
+				'league_id' => 7,
 				'name' => 'EU Top 8',
 				'season' => '2014',
 				'dateBegin' => '2014-07-10',
@@ -1216,12 +1216,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:15:42',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			86 => 
 			array (
 				'id' => 150,
-				'league_id' => 0,
+				'league_id' => 6,
 				'name' => 'NA CS Play In 1',
 				'season' => '2014',
 				'dateBegin' => '2014-06-29',
@@ -1230,12 +1230,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:15:53',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			87 => 
 			array (
 				'id' => 151,
-				'league_id' => 0,
+				'league_id' => 6,
 				'name' => 'NA CS Play In 2 ',
 				'season' => '2014',
 				'dateBegin' => '2014-06-30',
@@ -1244,12 +1244,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:16:03',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			88 => 
 			array (
 				'id' => 152,
-				'league_id' => 0,
+				'league_id' => 6,
 				'name' => 'NA CS Play In 3',
 				'season' => '2014',
 				'dateBegin' => '2014-06-30',
@@ -1258,12 +1258,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:16:14',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			89 => 
 			array (
 				'id' => 153,
-				'league_id' => 0,
+				'league_id' => 6,
 				'name' => 'NA CS Play In 4',
 				'season' => '2014',
 				'dateBegin' => '2014-06-25',
@@ -1272,12 +1272,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:16:25',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			90 => 
 			array (
 				'id' => 154,
-				'league_id' => 0,
+				'league_id' => 6,
 				'name' => 'NA CS Play In 5',
 				'season' => '2014',
 				'dateBegin' => '2014-06-25',
@@ -1286,12 +1286,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:16:36',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			91 => 
 			array (
 				'id' => 155,
-				'league_id' => 0,
+				'league_id' => 6,
 				'name' => 'NA Top 8',
 				'season' => '2014',
 				'dateBegin' => '2014-07-12',
@@ -1300,12 +1300,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:16:46',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			92 => 
 			array (
 				'id' => 156,
-				'league_id' => 0,
+				'league_id' => 2,
 				'name' => 'EU LCS Spring Promotion',
 				'season' => '2015',
 				'dateBegin' => '2014-09-09',
@@ -1314,12 +1314,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:16:57',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			93 => 
 			array (
 				'id' => 158,
-				'league_id' => 0,
+				'league_id' => 2,
 				'name' => 'EU LCS Summer Tiebreaker',
 				'season' => '2014',
 				'dateBegin' => '2014-07-31',
@@ -1328,12 +1328,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:17:08',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			94 => 
 			array (
 				'id' => 162,
-				'league_id' => 0,
+				'league_id' => 8,
 				'name' => 'OGN Regional Qualifier',
 				'season' => '2014',
 				'dateBegin' => '2014-08-28',
@@ -1342,12 +1342,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:17:19',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			95 => 
 			array (
 				'id' => 163,
-				'league_id' => 0,
+				'league_id' => 9,
 				'name' => 'LPL Regional Qualifier Upper',
 				'season' => '2014',
 				'dateBegin' => '2014-09-06',
@@ -1356,12 +1356,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:17:29',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			96 => 
 			array (
 				'id' => 164,
-				'league_id' => 0,
+				'league_id' => 9,
 				'name' => 'LPL Regional Qualifier Lower',
 				'season' => '2014',
 				'dateBegin' => '2014-09-06',
@@ -1370,12 +1370,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:17:40',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			97 => 
 			array (
 				'id' => 165,
-				'league_id' => 0,
+				'league_id' => 9,
 				'name' => 'LPL Regional Qualifier Seed',
 				'season' => '2014',
 				'dateBegin' => '2014-09-07',
@@ -1384,12 +1384,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:17:51',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			98 => 
 			array (
 				'id' => 167,
-				'league_id' => 0,
+				'league_id' => 2,
 				'name' => 'EU LCS Summer Playoffs',
 				'season' => '2014',
 				'dateBegin' => '2014-08-07',
@@ -1398,12 +1398,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:18:01',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			99 => 
 			array (
 				'id' => 168,
-				'league_id' => 0,
+				'league_id' => 1,
 				'name' => 'NA LCS Summer Playoffs',
 				'season' => '2014',
 				'dateBegin' => '2014-08-23',
@@ -1412,12 +1412,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:55',
-				'updated_at' => '2015-05-29 23:18:12',
+				'updated_at' => '2015-05-29 23:53:27',
 			),
 			100 => 
 			array (
 				'id' => 173,
-				'league_id' => 0,
+				'league_id' => 9,
 				'name' => 'LPL Summer Top 4',
 				'season' => '2014',
 				'dateBegin' => '2014-08-19',
@@ -1426,12 +1426,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:18:23',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			101 => 
 			array (
 				'id' => 174,
-				'league_id' => 0,
+				'league_id' => 8,
 				'name' => 'Circuit Points Tiebreaker',
 				'season' => '2014',
 				'dateBegin' => '2014-08-27',
@@ -1440,12 +1440,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:18:33',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			102 => 
 			array (
 				'id' => 175,
-				'league_id' => 0,
+				'league_id' => 4,
 				'name' => 'Group A',
 				'season' => '2014',
 				'dateBegin' => '2014-09-18',
@@ -1454,12 +1454,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:18:44',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			103 => 
 			array (
 				'id' => 176,
-				'league_id' => 0,
+				'league_id' => 4,
 				'name' => 'Knockout Stage',
 				'season' => '2014',
 				'dateBegin' => '2014-09-25',
@@ -1468,12 +1468,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:18:54',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			104 => 
 			array (
 				'id' => 177,
-				'league_id' => 0,
+				'league_id' => 4,
 				'name' => 'Group B',
 				'season' => '2014',
 				'dateBegin' => '2014-09-18',
@@ -1482,12 +1482,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:19:05',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			105 => 
 			array (
 				'id' => 178,
-				'league_id' => 0,
+				'league_id' => 4,
 				'name' => 'Group C',
 				'season' => '2014',
 				'dateBegin' => '2014-09-25',
@@ -1496,12 +1496,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:19:16',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			106 => 
 			array (
 				'id' => 179,
-				'league_id' => 0,
+				'league_id' => 4,
 				'name' => 'Group D',
 				'season' => '2014',
 				'dateBegin' => '2014-09-25',
@@ -1510,12 +1510,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:19:26',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			107 => 
 			array (
 				'id' => 181,
-				'league_id' => 0,
+				'league_id' => 1,
 				'name' => 'Single Elimination Bracket',
 				'season' => '2015',
 				'dateBegin' => '2014-11-15',
@@ -1524,12 +1524,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 0,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:55',
-				'updated_at' => '2015-05-29 23:19:37',
+				'updated_at' => '2015-05-29 23:53:27',
 			),
 			108 => 
 			array (
 				'id' => 184,
-				'league_id' => 0,
+				'league_id' => 1,
 				'name' => 'Upper Bracket',
 				'season' => '2015',
 				'dateBegin' => '2014-11-11',
@@ -1538,12 +1538,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:55',
-				'updated_at' => '2015-05-29 23:19:48',
+				'updated_at' => '2015-05-29 23:53:27',
 			),
 			109 => 
 			array (
 				'id' => 185,
-				'league_id' => 0,
+				'league_id' => 1,
 				'name' => 'Lower Bracket',
 				'season' => '2015',
 				'dateBegin' => '2014-11-11',
@@ -1552,12 +1552,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:55',
-				'updated_at' => '2015-05-29 23:19:58',
+				'updated_at' => '2015-05-29 23:53:27',
 			),
 			110 => 
 			array (
 				'id' => 186,
-				'league_id' => 0,
+				'league_id' => 2,
 				'name' => 'Single Elimination Bracket',
 				'season' => '2015',
 				'dateBegin' => '2014-11-22',
@@ -1566,12 +1566,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 0,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:20:09',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			111 => 
 			array (
 				'id' => 187,
-				'league_id' => 0,
+				'league_id' => 2,
 				'name' => 'Upper Bracket',
 				'season' => '2015',
 				'dateBegin' => '2014-12-18',
@@ -1580,12 +1580,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:20:20',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			112 => 
 			array (
 				'id' => 188,
-				'league_id' => 0,
+				'league_id' => 2,
 				'name' => 'Lower Bracket',
 				'season' => '2015',
 				'dateBegin' => '2014-12-19',
@@ -1594,12 +1594,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:20:30',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			113 => 
 			array (
 				'id' => 194,
-				'league_id' => 0,
+				'league_id' => 8,
 				'name' => '2015 LCK Spring Split',
 				'season' => '2015',
 				'dateBegin' => '2015-01-07',
@@ -1608,12 +1608,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 0,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:20:41',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			114 => 
 			array (
 				'id' => 195,
-				'league_id' => 0,
+				'league_id' => 2,
 				'name' => 'EU LCS Spring',
 				'season' => '2015',
 				'dateBegin' => '2015-01-22',
@@ -1622,12 +1622,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:20:52',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			115 => 
 			array (
 				'id' => 197,
-				'league_id' => 0,
+				'league_id' => 1,
 				'name' => 'NA LCS Spring',
 				'season' => '2015',
 				'dateBegin' => '2015-01-23',
@@ -1636,12 +1636,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:55',
-				'updated_at' => '2015-05-29 23:21:03',
+				'updated_at' => '2015-05-29 23:53:27',
 			),
 			116 => 
 			array (
 				'id' => 199,
-				'league_id' => 0,
+				'league_id' => 12,
 				'name' => 'LMS Spring',
 				'season' => '2015',
 				'dateBegin' => '2015-01-08',
@@ -1650,12 +1650,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 0,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:21:14',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			117 => 
 			array (
 				'id' => 204,
-				'league_id' => 0,
+				'league_id' => 9,
 				'name' => 'LPL Spring',
 				'season' => '2015',
 				'dateBegin' => '2015-01-16',
@@ -1664,12 +1664,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:21:25',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			118 => 
 			array (
 				'id' => 205,
-				'league_id' => 0,
+				'league_id' => 6,
 				'name' => '2015 NA Spring Challenger Qualifier',
 				'season' => '2015',
 				'dateBegin' => '2015-01-21',
@@ -1678,12 +1678,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 0,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:21:35',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			119 => 
 			array (
 				'id' => 206,
-				'league_id' => 0,
+				'league_id' => 7,
 				'name' => '2015 EU Spring Challenger Qualifier',
 				'season' => '2015',
 				'dateBegin' => '2015-01-20',
@@ -1692,12 +1692,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 0,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:21:46',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			120 => 
 			array (
 				'id' => 208,
-				'league_id' => 0,
+				'league_id' => 7,
 				'name' => '2015 EU CS Spring',
 				'season' => '2015',
 				'dateBegin' => '2015-02-17',
@@ -1706,12 +1706,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:21:57',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			121 => 
 			array (
 				'id' => 209,
-				'league_id' => 0,
+				'league_id' => 6,
 				'name' => '2015 NA CS Spring',
 				'season' => '2015',
 				'dateBegin' => '2015-02-18',
@@ -1720,12 +1720,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:22:07',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			122 => 
 			array (
 				'id' => 210,
-				'league_id' => 0,
+				'league_id' => 2,
 				'name' => 'EU LCS Spring Playoffs',
 				'season' => '2015',
 				'dateBegin' => '2015-04-04',
@@ -1734,12 +1734,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:22:18',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			123 => 
 			array (
 				'id' => 211,
-				'league_id' => 0,
+				'league_id' => 1,
 				'name' => 'NA LCS Spring Playoffs',
 				'season' => '2015',
 				'dateBegin' => '2015-04-04',
@@ -1748,12 +1748,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:55',
-				'updated_at' => '2015-05-29 23:22:29',
+				'updated_at' => '2015-05-29 23:53:27',
 			),
 			124 => 
 			array (
 				'id' => 212,
-				'league_id' => 0,
+				'league_id' => 12,
 				'name' => '2015 LMS Spring Playoffs',
 				'season' => '2015',
 				'dateBegin' => '2015-04-10',
@@ -1762,12 +1762,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:22:40',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			125 => 
 			array (
 				'id' => 213,
-				'league_id' => 0,
+				'league_id' => 7,
 				'name' => '2015 EU Challenger Spring Playoffs',
 				'season' => '2015',
 				'dateBegin' => '2015-03-31',
@@ -1776,12 +1776,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:22:50',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			126 => 
 			array (
 				'id' => 214,
-				'league_id' => 0,
+				'league_id' => 6,
 				'name' => '2015 NA Challenger Spring Playoffs',
 				'season' => '2015',
 				'dateBegin' => '2015-04-01',
@@ -1790,12 +1790,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:23:01',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			127 => 
 			array (
 				'id' => 215,
-				'league_id' => 0,
+				'league_id' => 8,
 				'name' => '2015 LCK Spring Playoffs',
 				'season' => '2015',
 				'dateBegin' => '2015-04-17',
@@ -1804,12 +1804,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:23:12',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			128 => 
 			array (
 				'id' => 217,
-				'league_id' => 0,
+				'league_id' => 9,
 				'name' => '2015 LPL Spring Playoffs',
 				'season' => '2015',
 				'dateBegin' => '2015-04-14',
@@ -1818,12 +1818,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:23:22',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			129 => 
 			array (
 				'id' => 218,
-				'league_id' => 0,
+				'league_id' => 9,
 				'name' => '2015 LPL Summer Promotion',
 				'season' => '2015',
 				'dateBegin' => '2015-04-14',
@@ -1832,12 +1832,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 0,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:23:33',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			130 => 
 			array (
 				'id' => 219,
-				'league_id' => 0,
+				'league_id' => 2,
 				'name' => 'EU LCS Summer Promotion',
 				'season' => '2015',
 				'dateBegin' => '2015-04-25',
@@ -1846,12 +1846,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:23:44',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			131 => 
 			array (
 				'id' => 220,
-				'league_id' => 0,
+				'league_id' => 1,
 				'name' => 'NA LCS Summer Promotion',
 				'season' => '2015',
 				'dateBegin' => '2015-04-26',
@@ -1860,12 +1860,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:55',
-				'updated_at' => '2015-05-29 23:23:54',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			132 => 
 			array (
 				'id' => 221,
-				'league_id' => 0,
+				'league_id' => 14,
 				'name' => '2015 MSI Group Stage',
 				'season' => '2015',
 				'dateBegin' => '2015-05-07',
@@ -1874,12 +1874,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:24:05',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			133 => 
 			array (
 				'id' => 222,
-				'league_id' => 0,
+				'league_id' => 14,
 				'name' => '2015 MSI Knockout',
 				'season' => '2015',
 				'dateBegin' => '2015-05-09',
@@ -1888,12 +1888,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:24:16',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			134 => 
 			array (
 				'id' => 223,
-				'league_id' => 0,
+				'league_id' => 8,
 				'name' => '2015 LCK Summer Promotion Group A',
 				'season' => '2015',
 				'dateBegin' => '2015-05-16',
@@ -1902,12 +1902,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 1,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:24:26',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			135 => 
 			array (
 				'id' => 224,
-				'league_id' => 0,
+				'league_id' => 8,
 				'name' => '2015 LCK Summer Promotion Group B',
 				'season' => '2015',
 				'dateBegin' => '2016-05-16',
@@ -1916,12 +1916,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 0,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:24:37',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			136 => 
 			array (
 				'id' => 225,
-				'league_id' => 0,
+				'league_id' => 2,
 				'name' => '2015 EU LCS Summer',
 				'season' => '2015',
 				'dateBegin' => '2015-05-28',
@@ -1930,12 +1930,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 0,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:24:48',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			137 => 
 			array (
 				'id' => 226,
-				'league_id' => 0,
+				'league_id' => 1,
 				'name' => '2015 NA LCS Summer',
 				'season' => '2015',
 				'dateBegin' => '2015-05-30',
@@ -1944,12 +1944,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 0,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:55',
-				'updated_at' => '2015-05-29 23:24:58',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			138 => 
 			array (
 				'id' => 229,
-				'league_id' => 0,
+				'league_id' => 12,
 				'name' => '2015 LMS Summer',
 				'season' => '2015',
 				'dateBegin' => '2015-05-20',
@@ -1958,12 +1958,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 0,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:25:09',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			139 => 
 			array (
 				'id' => 230,
-				'league_id' => 0,
+				'league_id' => 8,
 				'name' => '2015 LCK Summer Split',
 				'season' => '2015',
 				'dateBegin' => '2015-05-20',
@@ -1972,12 +1972,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 0,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:25:20',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			140 => 
 			array (
 				'id' => 231,
-				'league_id' => 0,
+				'league_id' => 9,
 				'name' => '2015 LPL Summer',
 				'season' => '2015',
 				'dateBegin' => '2015-05-22',
@@ -1986,12 +1986,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 0,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:25:31',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			141 => 
 			array (
 				'id' => 232,
-				'league_id' => 0,
+				'league_id' => 7,
 				'name' => '2015 EU Summer Challenger Qualifier',
 				'season' => '2015',
 				'dateBegin' => '2015-05-26',
@@ -2000,12 +2000,12 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 0,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:25:42',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			142 => 
 			array (
 				'id' => 235,
-				'league_id' => 0,
+				'league_id' => 6,
 				'name' => '2015 NA Summer Challenger Qualifier',
 				'season' => '2015',
 				'dateBegin' => '2015-05-27',
@@ -2014,7 +2014,7 @@ class TournamentsTableSeeder extends Seeder {
 				'finished' => 0,
 				'published' => 1,
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:25:52',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 		));
 	}

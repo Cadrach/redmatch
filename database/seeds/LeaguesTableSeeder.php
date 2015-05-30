@@ -25,7 +25,7 @@ class LeaguesTableSeeder extends Seeder {
 				'published' => 1,
 				'data' => '',
 				'created_at' => '2015-05-29 23:00:55',
-				'updated_at' => '2015-05-29 23:00:55',
+				'updated_at' => '2015-05-29 23:53:27',
 			),
 			1 => 
 			array (
@@ -38,7 +38,7 @@ class LeaguesTableSeeder extends Seeder {
 				'published' => 1,
 				'data' => '',
 				'created_at' => '2015-05-29 23:00:55',
-				'updated_at' => '2015-05-29 23:00:55',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			2 => 
 			array (
@@ -51,7 +51,7 @@ class LeaguesTableSeeder extends Seeder {
 				'published' => 1,
 				'data' => '',
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:00:56',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			3 => 
 			array (
@@ -64,7 +64,7 @@ class LeaguesTableSeeder extends Seeder {
 				'published' => 1,
 				'data' => '',
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:00:56',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			4 => 
 			array (
@@ -77,7 +77,7 @@ class LeaguesTableSeeder extends Seeder {
 				'published' => 1,
 				'data' => '',
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:00:56',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			5 => 
 			array (
@@ -90,7 +90,7 @@ class LeaguesTableSeeder extends Seeder {
 				'published' => 1,
 				'data' => '',
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:00:56',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			6 => 
 			array (
@@ -103,7 +103,7 @@ class LeaguesTableSeeder extends Seeder {
 				'published' => 1,
 				'data' => '',
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:00:56',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			7 => 
 			array (
@@ -116,7 +116,7 @@ class LeaguesTableSeeder extends Seeder {
 				'published' => 1,
 				'data' => '',
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:00:56',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			8 => 
 			array (
@@ -129,7 +129,7 @@ class LeaguesTableSeeder extends Seeder {
 				'published' => 1,
 				'data' => '',
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:00:56',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 			9 => 
 			array (
@@ -142,7 +142,7 @@ class LeaguesTableSeeder extends Seeder {
 				'published' => 1,
 				'data' => '',
 				'created_at' => '2015-05-29 23:00:56',
-				'updated_at' => '2015-05-29 23:00:56',
+				'updated_at' => '2015-05-29 23:53:28',
 			),
 		));
 	}

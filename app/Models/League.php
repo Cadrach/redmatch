@@ -25,7 +25,7 @@ class League extends Model {
             foreach($league->leagueTournaments as $tournamentId){
                 $tournament = Tournament::findOrNew($tournamentId);
                 $tournament->id = $tournamentId;
-                $tournament->league_id = $model->id;
+                $tournament->league_id = $league->id;
                 $tournament->save();
             }
         }

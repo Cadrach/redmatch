@@ -25,6 +25,7 @@ class CreateGamesTable extends Migration {
             $table->boolean('has_vod');
             $table->boolean('no_vods');
             $table->text('legs_url');
+            $table->longText('legs_data');
             $table->string('patch');
             $table->integer('length');
             $table->tinyInteger('order');

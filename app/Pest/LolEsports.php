@@ -47,8 +47,6 @@ class LolEsports extends AbstractPest {
     }
 
     public function game($id){
-        return $this->get('game', array(
-            'gameId' => $id,
-        ));
+        return $this->get('game/' . $id);
     }
 } 

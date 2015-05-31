@@ -4,6 +4,7 @@ use App\Models\Game;
 use App\Models\Match;
 use App\Models\Tournament;
 use App\Models\League;
+use App\Models\Vod;
 use \Illuminate\Contracts\Foundation\Application;
 
 class LolEsportsController extends Controller {
@@ -83,6 +84,55 @@ class LolEsportsController extends Controller {
                     $gameModel->no_vods = $game->noVods;
                     $gameModel->order = $position;
                     $gameModel->save();
+                }
+            }
+
+            sleep(5);
+            set_time_limit(30);
+        }
+    }
+
+    public function getGames(){
+        $games = Game::all();
+        $pest = $this->pestLolEsports();
+
+        foreach($games as $game){
+            $data = $pest->game($game->id);
+            $game->date_time = $data->dateTime;
+            $game->legs_url = $data->legsUrl;
+            $game->length = $data->gameLength;
+            $game->team_blue_id = $data->contestants->blue->id;
+            $game->team_red_id = $data->contestants->red->id;
+            $game->team_winner_id = $data->winnerId;
+
+            //Save players => in other function, based on tournaments
+            //Save Teams => in other function, based on tournaments
+            //Save Game Players data
+
+            //Get legs data
+            if($data->legsUrl){
+                try{
+                    $jsonLegs = file_get_contents($data->legsUrl);
+                    $legs = json_decode($jsonLegs);
+                    $game->patch = $legs->gameVersion;
+                    $game->date_time = date("Y-m-d H:i:s", $legs->gameCreation/1000);
+                    $game->legs_data = $jsonLegs;
+                }catch(\Exception $e){
+                    $game->legs_data = json_encode(['error'=>$e->getMessage()]);
+                }
+            }
+
+            //Save Game
+            $game->save();
+
+            //Save Vods
+            if($data->vods){
+                foreach($data->vods as $vod){
+                    Vod::firstOrCreate([
+                        'type' => $vod->type,
+                        'url' => $vod->URL,
+                        'game_id' => $game->id,
+                    ]);
                 }
             }
 

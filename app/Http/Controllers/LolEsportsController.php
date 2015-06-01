@@ -6,6 +6,7 @@ use App\Models\Tournament;
 use App\Models\League;
 use App\Models\Vod;
 use \Illuminate\Contracts\Foundation\Application;
+use Illuminate\Support\Facades\DB;
 
 class LolEsportsController extends Controller {
 
@@ -143,15 +144,17 @@ class LolEsportsController extends Controller {
 
     public function getYoutubeVideos(){
         $pest = $this->pestYoutube();
-        $vods = Vod::all();
-        echo count($vods) . "\n";
-        echo count($vods->keyBy('type_id'));
-        print_r($vods);
-//        foreach($vods->chunk(50) as $chunk){
-//            $result = $pest->videos($chunk->lists('type_id'));
-//            echo '<pre>';
-//            print_r($result);
-//
-//        }
+        $models = Vod::distinct()->select('type_id')->whereRaw("count_views=0")->get();
+        foreach($models->chunk(50) as $chunk){
+            $result = $pest->videos($chunk->lists('type_id'));
+            foreach($result->items as $vod){
+                DB::table('vods')->where('type_id', '=', $vod->id)->update([
+                    'count_views' => $vod->statistics->viewCount,
+                    'count_likes' => $vod->statistics->likeCount,
+                    'count_comments' => $vod->statistics->commentCount,
+                ]);
+            }
+
+        }
     }
 }

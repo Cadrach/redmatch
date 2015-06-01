@@ -20,7 +20,7 @@ class Youtube extends AbstractPest {
     }
 
     public function get($service, array $params=array()){
-        $params['key'] = $_ENV['GOOGLE_API_KEY'];
+        $params['key'] = env('GOOGLE_API_KEY');
         return parent::get($service, $params);
     }
 

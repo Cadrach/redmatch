@@ -20,7 +20,9 @@ class CreateVodsTable extends Migration {
             $table->string('type');
             $table->bigInteger('weight');
             $table->string('url');
-            $table->longText('data');
+            $table->integer('count_views');
+            $table->integer('count_likes');
+            $table->integer('count_comments');
 
             $table->timestamps();
             $table->index('game_id');

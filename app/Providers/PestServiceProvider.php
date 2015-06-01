@@ -34,12 +34,18 @@ class PestServiceProvider extends ServiceProvider {
         {
             return new \App\Pest\Reddit();
         });
+
+        $this->app->singleton('Pest_Youtube', function($app)
+        {
+            return new \App\Pest\Youtube();
+        });
 	}
 
     public function provides(){
         return [
             'Pest_LolEsports',
             'Pest_Reddit',
+            'Pest_Youtube',
         ];
     }
 

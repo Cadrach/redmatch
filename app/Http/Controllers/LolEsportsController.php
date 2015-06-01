@@ -140,4 +140,18 @@ class LolEsportsController extends Controller {
             set_time_limit(30);
         }
     }
+
+    public function getYoutubeVideos(){
+        $pest = $this->pestYoutube();
+        $vods = Vod::all();
+        echo count($vods) . "\n";
+        echo count($vods->keyBy('type_id'));
+        print_r($vods);
+//        foreach($vods->chunk(50) as $chunk){
+//            $result = $pest->videos($chunk->lists('type_id'));
+//            echo '<pre>';
+//            print_r($result);
+//
+//        }
+    }
 }
